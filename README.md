@@ -6,8 +6,11 @@ Co-learn Solidity，一起变强！🔥🔥🔥
 4 周 （6 Lessons + HackerWeekend）
 
 1.Blockchain Introduction (区块链解决什么问题，Web2 与 Web3 的不同, 给 Web2 开发者的机会，Wallet 、 Layers)
+
 1、区块链基本原理介绍
+
 2、区块链应用情况介绍
+
 3、区块链技术学习路径
 4、典型 web2 与 web3 应用的不同
 5、优秀学习资料分享
