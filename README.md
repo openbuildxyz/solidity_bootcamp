@@ -75,38 +75,32 @@ Demo：Chainlink CCIP 实现跨链 NFT
 
 
 ### 础推荐材料
-1.人文基础：
-比特币之前的事情：理解组成比特币的核心技术的发展，理解比特币的前前后后，能更好的理解中本聪创造比特币的核心产物。
+
 | 介绍 | 地址 |
 | --- | --- |
-| 比特币前传（一）70 年代公钥传奇| [https://foresightnews.pro/article/detail/13987 /](https://foresightnews.pro/article/detail/13987 ) |
+人文基础：
+比特币之前的事情：理解组成比特币的核心技术的发展，理解比特币的前前后后，能更好的理解中本聪创造比特币的核心产物。
+| 比特币前传（一）70 年代公钥传奇| [https://foresightnews.pro/article/detail/13987](https://foresightnews.pro/article/detail/13987 ) |
 | 比特币前传（二）：去中心化的起源| [https://foresightnews.pro/article/detail/14114](https://foresightnews.pro/article/detail/14114) |
 | 比特币前传（三）：90 年代的加密战争| [https://foresightnews.pro/article/detail/14545](https://foresightnews.pro/article/detail/14545) |
 | 比特币前传（四）：跨越半个世纪的思想与蓝图 | [ttps://foresightnews.pro/article/detail/14783](ttps://foresightnews.pro/article/detail/14783) |
 2。以太坊简史：因暴雪削弱术士而诞生的千亿美元巨兽
-https://foresightnews.pro/article/detail/13531
-以太坊近十年的发展很难用一篇文章概括，但是可以大致浏览每一个阶段的重大突破与变化。了解 VB 创造 ETH 的时候主要想解决什么问题
+| 以太坊近十年的发展很难用一篇文章概括，但是可以大致浏览每一个阶段的重大突破与变化。了解 VB 创造 ETH 的时候主要想解决什么问题 | [https://foresightnews.pro/article/detail/13531](https://foresightnews.pro/article/detail/13531) |
 3、加密思潮编年史，从 25 年前说起
-https://foresightnews.pro/article/detail/961
-快速了解加密思潮在不同时期的变化，了解到如何一步步从 BTC 走向 DAPP
+| 快速了解加密思潮在不同时期的变化，了解到如何一步步从 BTC 走向 DAPP | [https://foresightnews.pro/article/detail/961](https://foresightnews.pro/article/detail/961) |
+
 技术基础：
-1**、比特币白皮书精读版**
-https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA
-比特币白皮书精读版是对比特币白皮书更详细的解读，有助于更好的理解白皮书中的内容。比特币的技术原理搞的越清楚越好。
-2、以太坊白皮书精讲 精选
-https://zhuanlan.zhihu.com/p/37747240 （Part1）
-https://zhuanlan.zhihu.com/p/38002875 （Part2）
-https://zhuanlan.zhihu.com/p/38003169 （Part3）
+**比特币白皮书精读版**
+| 比特币白皮书精读版是对比特币白皮书更详细的解读，有助于更好的理解白皮书中的内容。比特币的技术原理搞的越清楚越好。 | [https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA](https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA) |
+
+**以太坊白皮书精讲 精选**
 白皮书精讲系列是看懂白皮书很好的参考资料，可以更深入的了解白皮书中的细节。这是 ETH1.0 的架构，后面再看 ETH 2.0 的架构。也是搞得越清楚越好，后续的区块链整体上都没有脱离这个架构，既 Chain-VM-共识-Daap
-3**、一个以太坊交易的完整周期**
-https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai
+|（Part1） | [https://zhuanlan.zhihu.com/p/37747240 ](https://zhuanlan.zhihu.com/p/37747240 ) |
+|（Part2） | [https://zhuanlan.zhihu.com/p/38002875  ](https://zhuanlan.zhihu.com/p/38002875  ) |
+|（Part3） | [https://zhuanlan.zhihu.com/p/38003169  ](https://zhuanlan.zhihu.com/p/38003169  ) |
+
+**、一个以太坊交易的完整周期**
+|
 这篇文章对具体的每一个环节都有很详细的记录，跟 Daap 的开发结合非常紧密，最好能完整过一遍，然后自己尝试画一个详细的流程图。包括前端怎么跟钱包交互，钱包怎么跟 RPC 交互，节点之间怎么通信，EVM 怎么处理交易，Gas，最后存储等。
+ | [https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai  ](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai ) |
 
-
-| fe-interview：前端面试的一个复习汇总项目 | [https://lucifer.ren/fe-interview](https://lucifer.ren/fe-interview) |
-| fe-interview：前端面试专题 | [https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md](https://github.com/biaochenxuying/blog/blob/master/interview/fe-interview.md) |
-| fe-interview：前端知识题库 | [https://github.com/haizlin/fe-interview](https://github.com/haizlin/fe-interview) |
-| node-interview：饿了么大前端的面试 | [https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn) |
-| Front-End-Interview-Notebook：前端复习笔记 | [https://github.com/CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) |
-| FE-Interview：前端面试必备题库  | [https://github.com/lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) |
-| web-interview：Vue 面试题库  | [https://github.com/febobo/web-interview](https://github.com/febobo/web-interview) |
