@@ -63,7 +63,6 @@ Demo：Chainlink CCIP 实现跨链 NFT
 
 
 
-
 ## [Github Discussion]( )使用方法
 
 | Categories         | description                                                  |
@@ -88,19 +87,14 @@ Demo：Chainlink CCIP 实现跨链 NFT
 | 以太坊近十年的发展很难用一篇文章概括，但是可以大致浏览每一个阶段的重大突破与变化。了解 VB 创造 ETH 的时候主要想解决什么问题 | [https://foresightnews.pro/article/detail/13531](https://foresightnews.pro/article/detail/13531) |
 3、加密思潮编年史，从 25 年前说起
 | 快速了解加密思潮在不同时期的变化，了解到如何一步步从 BTC 走向 DAPP | [https://foresightnews.pro/article/detail/961](https://foresightnews.pro/article/detail/961) |
-
 技术基础：
 **比特币白皮书精读版**
 | 比特币白皮书精读版是对比特币白皮书更详细的解读，有助于更好的理解白皮书中的内容。比特币的技术原理搞的越清楚越好。 | [https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA](https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA) |
-
 **以太坊白皮书精讲 精选**
 白皮书精讲系列是看懂白皮书很好的参考资料，可以更深入的了解白皮书中的细节。这是 ETH1.0 的架构，后面再看 ETH 2.0 的架构。也是搞得越清楚越好，后续的区块链整体上都没有脱离这个架构，既 Chain-VM-共识-Daap
 |（Part1） | [https://zhuanlan.zhihu.com/p/37747240 ](https://zhuanlan.zhihu.com/p/37747240 ) |
 |（Part2） | [https://zhuanlan.zhihu.com/p/38002875  ](https://zhuanlan.zhihu.com/p/38002875  ) |
 |（Part3） | [https://zhuanlan.zhihu.com/p/38003169  ](https://zhuanlan.zhihu.com/p/38003169  ) |
-
 **一个以太坊交易的完整周期**
-|
-这篇文章对具体的每一个环节都有很详细的记录，跟 Daap 的开发结合非常紧密，最好能完整过一遍，然后自己尝试画一个详细的流程图。包括前端怎么跟钱包交互，钱包怎么跟 RPC 交互，节点之间怎么通信，EVM 怎么处理交易，Gas，最后存储等。
- | [https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai  ](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai ) |
+|这篇文章对具体的每一个环节都有很详细的记录，跟 Daap 的开发结合非常紧密，最好能完整过一遍，然后自己尝试画一个详细的流程图。包括前端怎么跟钱包交互，钱包怎么跟 RPC 交互，节点之间怎么通信，EVM 怎么处理交易，Gas，最后存储等。| [https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai  ](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai ) |
 
