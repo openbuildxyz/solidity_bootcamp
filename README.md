@@ -2,6 +2,10 @@
 
 Co-learn Solidity，一起变强！🔥🔥🔥
 
+### 回顾视频：
+ [https://openbuild.xyz/learn/courses/95](https://openbuild.xyz/learn/courses/95) 
+
+
 ### 学习路线：
 4 周 （6 Lessons + HackerWeekend）
 
@@ -30,9 +34,9 @@ Oracle & Automation - Chainlink
 
 | Categories         | description                                                  |
 | ------------------ | ------------------------------------------------------------ |
-| [🍕Materials](https://openbuild.xyz/learn/courses/95)         | 回顾视频  |
-| [🙏 Q&A](https://github.com/web3-frontend/.github/discussions/categories/q-a)              | 提问 / 答疑                                                  |
-| 💡[I've got an idea!](https://github.com/web3-frontend/.github/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. web3前端共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
+| [🍕Materials](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/materials)         | 课堂笔记（欢迎贡献）  |
+| [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑                                                  |
+| 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
 
 
 
@@ -52,7 +56,6 @@ Oracle & Automation - Chainlink
 | 快速了解加密思潮在不同时期的变化，了解到如何一步步从 BTC 走向 DAPP | [https://foresightnews.pro/article/detail/961](https://foresightnews.pro/article/detail/961) |
 |技术基础：|  
 | 比特币白皮书精读版是对比特币白皮书更详细的解读，有助于更好的理解白皮书中的内容。比特币的技术原理搞的越清楚越好。 | [https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA](https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA) |
-| **以太坊白皮书精讲 精选**| 
 |**比特币白皮书精读版**| 
 |白皮书精讲系列是看懂白皮书很好的参考资料，可以更深入的了解白皮书中的细节。这是 ETH1.0 的架构，后面再看 ETH 2.0 的架构。也是搞得越清楚越好，后续的区块链整体上都没有脱离这个架构，既 Chain-VM-共识-Daap | 
 |（Part1） | [https://zhuanlan.zhihu.com/p/37747240 ](https://zhuanlan.zhihu.com/p/37747240 ) |
