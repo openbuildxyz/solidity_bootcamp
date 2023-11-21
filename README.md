@@ -99,7 +99,7 @@ Demo：Chainlink CCIP 实现跨链 NFT
 |（Part2） | [https://zhuanlan.zhihu.com/p/38002875  ](https://zhuanlan.zhihu.com/p/38002875  ) |
 |（Part3） | [https://zhuanlan.zhihu.com/p/38003169  ](https://zhuanlan.zhihu.com/p/38003169  ) |
 
-**、一个以太坊交易的完整周期**
+**一个以太坊交易的完整周期**
 |
 这篇文章对具体的每一个环节都有很详细的记录，跟 Daap 的开发结合非常紧密，最好能完整过一遍，然后自己尝试画一个详细的流程图。包括前端怎么跟钱包交互，钱包怎么跟 RPC 交互，节点之间怎么通信，EVM 怎么处理交易，Gas，最后存储等。
  | [https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai  ](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai ) |
