@@ -7,63 +7,23 @@ Co-learn Solidity，一起变强！🔥🔥🔥
 
 1.Blockchain Introduction (区块链解决什么问题，Web2 与 Web3 的不同, 给 Web2 开发者的机会，Wallet 、 Layers)
 
-1、区块链基本原理介绍
-
-2、区块链应用情况介绍
-
-3、区块链技术学习路径
-4、典型 web2 与 web3 应用的不同
-5、优秀学习资料分享
 
 2.Solidity Introduction (Remix, how to deploy, types, interface ) 
-Solidity 智能合约简介
-合约开发框架、工具介绍
-Solidity 核心语法
-合约开发、调试、部署流程介绍（使用 Remix）
+
 
 3.ERC contracts ( ERC20 、 ERC721 openzepplin) and Mini Exchange 
-ERC/EIP 介绍
-ERC20/ERC712/ERC1155 概念讲解
-OpenZepplin 简介及实用库推荐
-Mini Exchange Demo 讲解（使用 Foundry）
+
 
 4.Test & Security & Advanced Coding 
-Test：
-Hardhat 介绍，场景测试，Task
-Foundry 介绍，场景测试，fork环境测试
-Security：
-常见安全漏洞，及修复事项
-Hardhat本地安全测试及局限性
-Foundry模拟线上环境安全测试 (实操)
-Advance Coding：
-ERC20扩展协议及安全编程注意事项
-ERC721/ERC1155 安全编程注意事项
-协议设计通用安全注意事项
 
-5.Frontend in Web3: Javascript Libraries and the Ecosystem  - Amagi
-介绍：
-	生态介绍，库，如何开始
-	开始，初入茅庐：
-	上手，钱包连接，如何与 ERC20 / ERC721 协议协作对接
-	实战：...待定？
-	实践案例讲解，uniswap ...
-Tools: 
-Introduction to EVM Contract Bytecode and On-Chain Data Analysis - Chainbase-insulator
-	
-6.Oracle & Automation - Chainlink
-Workshop 1
-预言机问题
-去中心化预言机
-预言机计算服务
-Demo：Chainlink Automation 实现 dynamic NFT
 
-Workshop 2
-跨链问题
-预言机跨链服务
-Demo：Chainlink CCIP 实现跨链 NFT
+5.Frontend in Web3: Javascript Libraries and the Ecosystem 
+
+6.Tools: 
+Introduction to EVM Contract Bytecode and On-Chain Data Analysis - Chainbase
+Oracle & Automation - Chainlink
 
 7.Offline Hackerhouse (北京/上海/深圳/成都多地) 
-
 
 
 ## [Github Discussion]( )使用方法
