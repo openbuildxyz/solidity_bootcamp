@@ -83,7 +83,7 @@ Demo：Chainlink CCIP 实现跨链 NFT
 | 比特币前传（一）70 年代公钥传奇| [https://foresightnews.pro/article/detail/13987](https://foresightnews.pro/article/detail/13987 ) |
 | 比特币前传（二）：去中心化的起源| [https://foresightnews.pro/article/detail/14114](https://foresightnews.pro/article/detail/14114) |
 | 比特币前传（三）：90 年代的加密战争| [https://foresightnews.pro/article/detail/14545](https://foresightnews.pro/article/detail/14545) |
-| 比特币前传（四）：跨越半个世纪的思想与蓝图 | [ttps://foresightnews.pro/article/detail/14783](ttps://foresightnews.pro/article/detail/14783) |
+| 比特币前传（四）：跨越半个世纪的思想与蓝图 | [ttps://foresightnews.pro/article/detail/14783](https://foresightnews.pro/article/detail/14783) |
 2。以太坊简史：因暴雪削弱术士而诞生的千亿美元巨兽
 | 以太坊近十年的发展很难用一篇文章概括，但是可以大致浏览每一个阶段的重大突破与变化。了解 VB 创造 ETH 的时候主要想解决什么问题 | [https://foresightnews.pro/article/detail/13531](https://foresightnews.pro/article/detail/13531) |
 3、加密思潮编年史，从 25 年前说起
