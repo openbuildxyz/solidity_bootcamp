@@ -129,10 +129,51 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 | Categories         | Description                                                  |
 | ------------------ | ------------------------------------------------------------ |
-| [🍕Materials](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/materials)         | 课堂笔记（欢迎贡献）  |
+| [🍕Materials](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/materials)         | 课外资料/课堂笔记（欢迎贡献）  |
 | [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑   |
 | [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
 | 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
+
+## 任务
+
+> 三个阶段任务达成额外奖励 💰20U ➕ 专属的毕业证书
+
+### 阶段一 💰10U
+
+  完成以下三个任务 奖金 `10U`
+
+#### 任务 1 - 区块链开发例子-部署一个ERC20代币
+
+1. 选择区块链
+   - Chainlist.org (RPC 配置）
+   - 浏览器，gas代币（水龙头）
+   - [Meter 简介](https://docs.meter.io/developer-documentation/introduction)
+   - 代币合约 [Github](https://github.com/meterio/tokenERC20)
+
+2. 合约常用开发环境
+   - Node.js
+   - npm
+   - Hardhat
+
+#### 任务 2 - 发行一个ERC721的NFT合约
+
+1. 在 sepolia 或其他测试网络发行一个 ERC721 的 NFT 合约，可以参照 [https://solidity-by-example.org/app/erc721/](https://solidity-by-example.org/app/erc721/)
+
+2. 或使用 [https://docs.openzeppelin.com/contracts/5.x/erc721](https://docs.openzeppelin.com/contracts/5.x/erc721)，提交合约地址与对应网络
+
+#### 任务 3 - 使用foundry框架编译和测试
+
+1. 在 solidity 左侧 Applications 中选取 1 个自己感兴趣的应用，使用 foundry 框架进行编译，并编写测试（至少覆盖一个 Success Case 和 Fail Case），提交 github repo 链接
+
+2. [Solidity by Example](https://solidity-by-example.org/)
+
+## 阶段二任务 💰10U
+
+## 阶段三任务 💰10U
+
+## Demoday 💰200-500U
+
+> 奖学金名额每个阶段共计 50 个。为了防止女巫，参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
 
 ## 推荐材料
 
