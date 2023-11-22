@@ -39,36 +39,40 @@ Oracle & Automation - Chainlink
 
 7.Offline Hackerhouse (北京/上海/深圳/成都多地)
 
-
 ## 练习任务
-### 前期准备：
+
+### 前期准备
+
 1. 安装 git。 `brew install git`
 2. 安装 nodeJs。 `brew install node`
-### 任务 1 区块链开发例子-部署一个ERC20代币 - 
+
+### 任务 1 区块链开发例子-部署一个ERC20代币 -
+
 1. 选择区块链
 
 • Chainlist.org (RPC 配置）
 
 • 浏览器，gas代币（水龙头）
 
-• [https://docs.meter.io/developer-documentation/introduction](https://docs.meter.io/developer-documentation/introduction) 
+• [https://docs.meter.io/developer-documentation/introduction](https://docs.meter.io/developer-documentation/introduction)
 
 2. 代币合约Github
-• [https://github.com/meterio/tokenERC20](https://github.com/meterio/tokenERC20) 
+• [https://github.com/meterio/tokenERC20](https://github.com/meterio/tokenERC20)
 
 3. 合约常用开发环境
 • Nodejs，npm，hardhat
 
-### 任务 2 - 
-1. 
+### 任务 2 -
+
+1.
 2.
-### 任务 3 - 
-1. 
-2. 
+
+### 任务 3 -
+
+1.
+2.
 
 <b>:beer: :beer: 完成以上 3 个任务后，请提交您的结果，将发送 U 证明！ :beer: :beer:</b>
-
-
 
 ## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
