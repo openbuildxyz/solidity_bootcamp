@@ -78,14 +78,19 @@ Oracle & Automation - Chainlink
 - [《Mastering Bitcoin》](https://github.com/bitcoinbook/bitcoinbook)：《精通区块链编程：加密货币原理、方法和应用开发》的英文原版
 
 ### 4.4 官方文档
+- [ethereum docs](https://ethereum.org/en/developers/docs/)
 - [web3.js](https://web3js.readthedocs.io/en/v1.10.0/)
 - [geth](https://geth.ethereum.org/)
 - [solidity](https://soliditylang.org/)
 - [the graph](https://thegraph.com/zh/)
 - [Meter](https://meter.io/)：DeFi基础设施
+- [OpenZeppelin](https://docs.openzeppelin.com/contracts/5.x/)
+- [hardhat](https://hardhat.org/hardhat-runner/docs/getting-started)
 
 ### 4.5 学习网站
 - [DeCert.me](https://decert.me/)
+- [Solidity By Example](https://solidity-by-example.org/)
+- [Uniswap详解](https://www.rareskills.io/uniswap-v2-book)
 
 ### 4.6 相关资源
 - [Remix](https://remix.ethereum.org/)：solidity在线IDE
@@ -96,8 +101,20 @@ Oracle & Automation - Chainlink
 - [[交易所] UNISWAP](https://uniswap.org/)
 - [[DAO] Botto](https://www.botto.com/community)
 - [chainlist](https://chainlist.org/)：EVM网络列表
-
+- [infura](https://www.infura.io/zh)
+- [nodiesDLB](https://www.nodies.app/)
+- [alchemy](https://www.alchemy.com/)
+- [etherscan](https://etherscan.io/)
 
 ### 4.7 大佬博客
 - [郭宇](https://guoyu.mirror.xyz/)：前bytedance前端工程师
 - [Preethi Kasireddy](https://www.preethikasireddy.com/)：TruStory CEO
+- [pseudoyu](https://www.pseudoyu.com/zh/)：我们可爱的老师
+
+### 4.8 其他文章
+- 
+
+## 5. 视频资料
+- [《区块链技术与应用》by 北京大学肖臻老师](https://www.bilibili.com/video/BV1Vt411X7JF/)
+
+## 6. [foundry](./foundry.md)
