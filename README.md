@@ -54,7 +54,7 @@ Oracle & Automation - Chainlink
 3. 合约常用开发环境
 • Nodejs，npm，hardhat
 
-### 任务 2 - Chainlink VRF：
+### 任务 2 - 
 1. 
 2.
 ### 任务 3 - 
