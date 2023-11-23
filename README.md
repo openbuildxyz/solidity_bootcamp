@@ -112,7 +112,8 @@ Oracle & Automation - Chainlink
 - [pseudoyu](https://www.pseudoyu.com/zh/)：我们可爱的老师
 
 ### 4.8 其他文章
-- 
+- [What Are EIP and ERC and How Are They Connected?](https://www.coindesk.com/learn/what-are-eip-and-erc-and-how-are-they-connected/)
+- [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
 
 ## 5. 视频资料
 - [《区块链技术与应用》by 北京大学肖臻老师](https://www.bilibili.com/video/BV1Vt411X7JF/)
