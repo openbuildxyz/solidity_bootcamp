@@ -1,8 +1,8 @@
 # OpenBuild Solidity Bootcamp
 
-> OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
-
 ***Co-learn Solidity，一起变强！*** 🔥🔥🔥
+
+> OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
 ## 回顾视频
 
@@ -39,6 +39,32 @@ Oracle & Automation - Chainlink
 
 7.Offline Hackerhouse (北京/上海/深圳/成都多地)
 
+
+## 练习任务
+### 前期准备：
+1. 安装 git。 `brew install git`
+2. 安装 nodeJs。 `brew install node`
+### 任务 1 区块链开发例子-部署一个ERC20代币 - 
+1. 选择区块链
+• Chainlist.org (RPC 配置）
+• 浏览器，gas代币（水龙头）
+• [https://docs.meter.io/developer-documentation/introduction](https://docs.meter.io/developer-documentation/introduction) 
+2. 代币合约Github
+• [https://github.com/meterio/tokenERC20]https://github.com/meterio/tokenERC20) 
+3. 合约常用开发环境
+• Nodejs，npm，hardhat
+
+### 任务 2 - Chainlink VRF：
+1. 
+2.
+### 任务 3 - 
+1. 
+2. 
+
+<b>:beer: :beer: 完成以上 3 个任务后，请提交您的结果，将发送 U 证明！ :beer: :beer:</b>
+
+
+
 ## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
 | Categories         | description                                                  |
@@ -47,7 +73,7 @@ Oracle & Automation - Chainlink
 | [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑                                                  |
 | 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
 
-### 推荐材料
+### 学习材料
 
 | 介绍 | 地址 |
 | --- | --- |
