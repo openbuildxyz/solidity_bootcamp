@@ -46,7 +46,7 @@ Oracle & Automation - Chainlink
 2. 安装 nodeJs。 `brew install node`
 ### 任务 1 区块链开发例子-部署一个ERC20代币 - 
 1. 选择区块链
-2. 
+
 • Chainlist.org (RPC 配置）
 
 • 浏览器，gas代币（水龙头）
