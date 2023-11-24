@@ -79,15 +79,16 @@ Oracle & Automation - Chainlink
 
 ### 任务 2 -
 
-1.
-2.
+1.在 sepolia 或其他测试网络发行一个 ERC721 的 NFT 合约，可以参照 [https://solidity-by-example.org/app/erc721/](https://solidity-by-example.org/app/erc721/)
+2.或使用 [https://docs.openzeppelin.com/contracts/5.x/erc721](https://docs.openzeppelin.com/contracts/5.x/erc721)，提交合约地址与对应网络
+
 
 ### 任务 3 -
 
-1.
-2.
+1.在 solidity 左侧 Applications 中选取 1 个自己感兴趣的应用，使用 foundry 框架进行编译，并编写测试（至少覆盖一个 Success Case 和 Fail Case），提交 github repo 链接
+2.[https://solidity-by-example.org/](https://solidity-by-example.org/)
 
-<b>:beer: :beer: 完成以上 3 个任务后，请提交您的结果，将发送 U 证明！ :beer: :beer:</b>
+<b>:beer: :beer: 完成以上 3 个任务后，请提交您的作业，将发送 10U 证明！ :beer: :beer:</b>
 
 
 ## 4. 推荐材料
