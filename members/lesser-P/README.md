@@ -12,9 +12,9 @@ Discord ID: 1120632081802875024
 
 ## 作业提交
 
-[Task1](/members/lesser-P/task1/Task1.md#task-1)
-[Task2](/members/lesser-P/task2/Task1.md#task-1)
-[Task3](/members/lesser-P/task3/Task1.md#task-1)
+[Task1](/members/lesser-P/task1/Task.md#task-1)
+[Task2](/members/lesser-P/task2/Task.md#task-1)
+[Task3](/members/lesser-P/task3/Task.md#task-1)
 
 ## 学习日志
 
