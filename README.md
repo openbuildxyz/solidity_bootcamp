@@ -90,7 +90,7 @@ Oracle & Automation - Chainlink
 
 ## 阶段三任务 💰10U
 
-## 额外奖励 全部达成额外奖励 💰20U ➕ 专属的毕业证书
+## 全部达成额外奖励 💰20U ➕ 专属的毕业证书
 
 
 > 奖学金名额每个阶段共计 50 个。为了防止女巫，参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
