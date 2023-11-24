@@ -53,9 +53,9 @@ Oracle & Automation - Chainlink
 
 
 
-## 阶段一任务
+## 阶段一任务 💰10U
 
-<b>:beer: :beer: 完成以下 3 个任务后，请提交您的作业，将发送 10U 证明！ :beer: :beer:</b>
+<b>:beer: :beer: 完成 阶段一 3 个任务后，提交完您的作业，将发送 10U 奖学金！ :beer: :beer:</b>
 
 ### 任务 1 区块链开发例子-部署一个ERC20代币 -
 
@@ -86,11 +86,19 @@ Oracle & Automation - Chainlink
 
 2.[https://solidity-by-example.org/](https://solidity-by-example.org/)
 
+## 阶段二任务 💰10U
+
+## 阶段三任务 💰10U
+
+## 额外奖励 全部达成额外奖励 💰20U ➕ 专属的毕业证书
+
+
+> 奖学金名额每个阶段共计 50 个。为了防止女巫，参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
 
 
 
 ## 4. 推荐材料
-
+1
 ### 4.1 人文基础
 
 比特币之前的事情：理解组成比特币的核心技术的发展，理解比特币的前前后后，能更好的理解中本聪创造比特币的核心产物。
