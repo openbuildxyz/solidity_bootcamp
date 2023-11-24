@@ -12,6 +12,20 @@
 
 OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，通过4周的学习帮助你从 Web2 无缝过渡到 Web3 开发，成为solidity开发，为你开启一个充满可能性和机遇的世界。🚢
 
+
+
+## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
+
+| Categories         | Description                                                  |
+| ------------------ | ------------------------------------------------------------ |
+| [🍕Materials](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/materials)         | 课外资料/课堂笔记（欢迎贡献）  |
+| [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑   |
+| [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
+| 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
+
+
+
+
 ## Chapters
 
 <details>
@@ -113,16 +127,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 ## One More Thing
 
 **Offline Hackerhouse**  (北京/上海/深圳/成都多地)
-
-
-## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
-
-| Categories         | Description                                                  |
-| ------------------ | ------------------------------------------------------------ |
-| [🍕Materials](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/materials)         | 课外资料/课堂笔记（欢迎贡献）  |
-| [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑   |
-| [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
-| 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
 
 
 ## 🏅️ 通关任务
