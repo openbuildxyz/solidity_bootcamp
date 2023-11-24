@@ -62,7 +62,9 @@ Oracle & Automation - Chainlink
 1. 选择区块链
 
 • Chainlist.org (RPC 配置）
+
 • 浏览器，gas代币（水龙头）
+
 • [https://docs.meter.io/developer-documentation/introduction](https://docs.meter.io/developer-documentation/introduction)
 
 2. 代币合约Github
