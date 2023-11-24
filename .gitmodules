@@ -1,3 +1,9 @@
 [submodule "members/lesser-P/task3/lib/forge-std"]
 	path = members/lesser-P/task3/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "members/lesser-P/task3/lib/solmate"]
+	path = members/lesser-P/task3/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "members/lesser-P/task3/lib/foundry-devops"]
+	path = members/lesser-P/task3/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
