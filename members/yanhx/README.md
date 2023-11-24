@@ -1,66 +1,25 @@
-## Foundry
+# 个人介绍
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+Github: https://github.com/yanhx
 
-Foundry consists of:
+Wechat ID: yanhx9558
+Wechat Name: Ryan
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Discord ID: crypto_ryan
 
-## Documentation
+wallet address: 0x498295c74023bc5415C255F81F5F0ACe949afbe0
 
-https://book.getfoundry.sh/
+Hi everyone, I'm Ryan from Singapore. Currently working on 2 web3 projects, (1) Opencord, a communication platform for DAOs; (2) REET, a physical RWA project for natural resources. I have a background in TradFi. 
 
-## Usage
 
-### Build
+## 作业提交
+(code is inside this folder)
 
-```shell
-$ forge build
-```
+Task1 ERC20: src/MyERC20.sol
+- Deployment: https://sepolia.etherscan.io/address/0xcf9a3ce9f056d5e642b57577ce1f7b02414a170f
 
-### Test
+Task2 ERC721: src/MyERC721.sol
+- Deployment: https://sepolia.etherscan.io/address/0x58480c2ae521ab7c50e1bb257035245387bfd5bd
 
-```shell
-$ forge test
-```
+Task3 foundry tests: test/unit/MyERC20Test.t.sol
 
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
