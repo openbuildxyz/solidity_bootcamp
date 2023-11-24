@@ -104,17 +104,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 - OpenZepplin 简介及实用库推荐
 - Mini Exchange Demo 讲解
 
-### 本章任务
-
-1. 部署一个ERC20代币  
-
-- [Meter 简介](https://cn.docs.meter.io/meter-gai-shu/meter-jian-jie-1)
-- 代币合约 [Github](https://github.com/meterio/tokenERC20)
-
-2. 在 sepolia 或其他测试网络发行一个 ERC721 的 NFT 合约
-   > 可以参照 <https://solidity-by-example.org/app/erc721/> 或使用 <https://docs.openzeppelin.com/contracts/5.x/erc721，提交合约地址与对应网络>
-3. 在 solidity 左侧 Applications 中选取 1 个自己感兴趣的应用，使用 foundry 框架进行编译，并编写测试（至少覆盖一个 Success Case 和 Fail Case），提交 github repo 链接
-
 ## Solidity Test & Security
 
 ## Frontend in Web3
@@ -125,6 +114,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 **Offline Hackerhouse**  (北京/上海/深圳/成都多地)
 
+
 ## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
 | Categories         | Description                                                  |
@@ -134,7 +124,8 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 | [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
 | 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
 
-## 任务
+
+## 🏅️ 通关任务
 
 > 三个阶段任务达成额外奖励 💰20U ➕ 专属的毕业证书
 
