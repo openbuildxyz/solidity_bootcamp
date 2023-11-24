@@ -131,7 +131,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ## 🏅️ 通关任务
 
-> 三个阶段任务达成额外奖励 💰20U ➕ 专属的毕业证书
+> 三个阶段任务达成额外奖励 💰20U ➕ 专属的NFT结业勋章
 
 ### 阶段一 💰10U
 
