@@ -52,14 +52,10 @@ Oracle & Automation - Chainlink
 7.Offline Hackerhouse (北京/上海/深圳/成都多地)
 
 
-## 3. [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
-## 练习任务
+## 阶段一任务
 
-### 前期准备
-
-1. 安装 git。 `brew install git`
-2. 安装 nodeJs。 `brew install node`
+<b>:beer: :beer: 完成以下 3 个任务后，请提交您的作业，将发送 10U 证明！ :beer: :beer:</b>
 
 ### 任务 1 区块链开发例子-部署一个ERC20代币 -
 
@@ -77,18 +73,18 @@ Oracle & Automation - Chainlink
 3. 合约常用开发环境
 • Nodejs，npm，hardhat
 
-### 任务 2 -
+### 任务 2 发行一个ERC721的NFT合约 -
 
 1.在 sepolia 或其他测试网络发行一个 ERC721 的 NFT 合约，可以参照 [https://solidity-by-example.org/app/erc721/](https://solidity-by-example.org/app/erc721/)
 2.或使用 [https://docs.openzeppelin.com/contracts/5.x/erc721](https://docs.openzeppelin.com/contracts/5.x/erc721)，提交合约地址与对应网络
 
 
-### 任务 3 -
+### 任务 3 使用foundry框架编译和测试 -
 
 1.在 solidity 左侧 Applications 中选取 1 个自己感兴趣的应用，使用 foundry 框架进行编译，并编写测试（至少覆盖一个 Success Case 和 Fail Case），提交 github repo 链接
 2.[https://solidity-by-example.org/](https://solidity-by-example.org/)
 
-<b>:beer: :beer: 完成以上 3 个任务后，请提交您的作业，将发送 10U 证明！ :beer: :beer:</b>
+
 
 
 ## 4. 推荐材料
