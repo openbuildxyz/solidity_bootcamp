@@ -190,7 +190,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
   2. 然后进入自己 fork 的项目中，***通过 `git clone`下载到本地***，按照作业要求将自己的作业内容放到指定的目录并推送。如果你正在使用 Vscode，这里推荐一个插件 ***git-commit-plugin*** 可以规范你的 commit 格式。
   3. 提交完成后回到我们fork 的项目中(指的是已经存在于自己仓库的复制体)，***点击`Pull Request`***，因为是 fork 过来的项目，源分支(我们自己的 fork)和目标分支([主仓库](https://github.com/openbuildxyz/solidity_bootcamp)) Github 会自动帮我们填好。我们只需要填一下PR的标题和描述即可。一般来讲，PR的标题应该简洁明了地概括你所做的修改。而PR的描述则是详细说明你的修改内容和目的，以便审核者更好地理解你的修改内容。需要注意的是，不能与目标仓库当前已有代码产生冲突噢。当我们创建了PR以后，就可以等待目标仓库的管理员审核通过啦～
 
-**最后，如果你有任何作业问题，欢迎在我们的学习群 or Discussions 里提出。**
+**最后，如果你有任何作业问题，欢迎在我们的学习群 or Discussions 里提出(作业示例代码可参考 **GrayJiang** 内文件)。**
 
 ## 推荐材料
 
