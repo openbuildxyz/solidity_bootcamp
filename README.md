@@ -239,6 +239,9 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 - [DeCert.me](https://decert.me/)
 - [Solidity By Example](https://solidity-by-example.org/)
 - [Uniswap详解](https://www.rareskills.io/uniswap-v2-book)
+- [learnweb3](https://learnweb3.io/)
+- [freecodecamp](https://www.freecodecamp.org/news/tag/solidity/)
+- [useweb3](https://www.useweb3.xyz/courses)
 
 ### 6. 相关资源
 
