@@ -361,6 +361,106 @@ emit AnotherLog();
 
 ```
 
+### 错误处理
+
+#### require/revert/assert
+
+```solidity
+function testRequire(unit _i) public pure {
+    require(_i > 10, "Input must be greater than 10");
+}
+
+function testRevert(unit _i) public pure {
+    if (_i <= 10) {
+        revert("Input must be greater than 10");
+    }
+}
+
+function testAssert() public view {
+    assert(num == 0);
+}
+```
+
+#### try / catch
+
+```solidity
+event Log(string message);
+event LogBytes(bytes data);
+
+function tryCatchNewContract(address _owner) public {
+    try new Foo(_owner) returns (Fee foo) {
+        emit Log("Foo created");
+    } catch Error(string memory reason) {
+        emit Log(reason);
+    } catch (bytes memory reason) {
+        emit LogBytes(reason);
+    }
+}
+```
+
+### 资产
+
+#### payable
+
+```solidity
+// 地址类型可以声明 payable
+address payable public owner;
+
+constructor() payable {
+    owner = payable(msg.sender);
+}
+
+// 方法声明 payable 来接收 Ether
+function deposit() public payable {}
+```
+
+#### 发送
+
+```solidity
+contract SendEther {
+    function sendViaCall(address payable _to) public payable {
+        (bool sent, bytes memory data) = _to.call{value: msg.value}("");
+        require(sent, "Failed to send Ether");
+    }
+}
+```
+
+#### 接收
+
+```solidity
+contract ReceiveEther {
+    
+    // 当 msg.data 为空时
+    receive() external payable {}
+
+    // 当 msg.data 非空时
+    fallback() external payable {}
+
+    function getBalance() public view returns (unit) {
+        return address(this).balance;
+    }
+}
+
+```
+
+### Gas Fee
+
+#### 参数
+
+- gas spent
+- gas price
+- gas limit
+- block gas limit
+
+#### 技巧
+
+使用  calldata 替换 memory
+将状态便来给你载入内存
+使用 i++ 二部署 ++i
+缓存数组元素
+
+
+
 ## 问题
 
 1. EVM 原理，solidity 在 EVM 上运行的原理
