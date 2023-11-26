@@ -18,6 +18,8 @@ Wallet Address: `0xC2745cd26F703C869a6d4797472f64a599C4ED65`
 
 [Task1](Task.md#task-1)
 
+[Task2](Task.md#task-2)
+
 ## 学习日志
 
 [第一课笔记](journal/1.md)

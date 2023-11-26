@@ -52,3 +52,11 @@ npx hardhat deploy
 - [MTR token on Testnet](https://faucet-warringstakes.meter.io/)
 - [tokenERC20](https://github.com/meterio/tokenERC20)
 - [ChainList](https://chainlist.org/)
+
+## Task 2
+
+[Github](https://github.com/keyding/solidity_bootcamp_task2)
+
+[View on Sepolia]( https://sepolia.etherscan.io/tx/0x7df043803eda759d0d38bc74228cf6c99655dac4652a532df86b95e2513078a1)
+
+![NFT](./images/nft.png)
