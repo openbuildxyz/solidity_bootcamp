@@ -1,0 +1,30 @@
+# IDE files
+.idea
+
+# Foundry
+cache/
+out/
+cache_forge/
+
+# JS
+node_modules/
+
+#Hardhat files
+cache_hardhat/
+artifacts/
+coverage/
+coverage.json
+
+#SDK files
+sdk/tsconfig.tsbuildinfo
+sdk/dist/
+sdk/src/typechain/
+
+#ENV files
+envs/
+.env
+
+#Hardhat plugin files
+typechain-types/
+
+circuits/*_output
