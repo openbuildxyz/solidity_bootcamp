@@ -38,36 +38,42 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 </details>
 
 <details>
-<summary>Chapter2 <a href="#1-回顾视频">Solidity</a></summary>
+<summary>Chapter2 <a href="#solidity">Solidity</a></summary>
 <ol>
   <li>
-    <a href="#3-github-discussion-使用方法">Solidity Introduction</a>
+    <a href="#1-solidity-basic-syntax">Solidity Basic Syntax</a>
   </li>
   <li>
-    <a href="#3-github-discussion-使用方法">ERC Contracts and Mini Exchange</a>
+    <a href="#2-remix-ide">Remix IDE</a>
+  </li>
+  <li>
+    <a href="#3-erc-contracts--openzeppelin">ERC Contracts & OpenZeppelin</a>
+  </li>
+  <li>
+    <a href="#4-foundry--erc20-exchange">ERC Contracts and Mini Exchange</a>
   </li>
 </ol>
 </details>
 
 <details>
-<summary>Chapter3 <a href="#1-回顾视频">Solidity Test & Security</a></summary>
+<summary>Chapter3 <a href="">Solidity Test & Security</a></summary>
 <ol>
   <li>
-    <a href="#3-github-discussion-使用方法">课程回放</a>
+    <a href="">课程回放</a>
   </li>
 </ol>
 </details>
 
 <details>
-<summary>Chapter4 <a href="#1-回顾视频">Frontend in Web3</a></summary>
+<summary>Chapter4 <a href="">Frontend in Web3</a></summary>
 <ol>
   <li>
-    <a href="#3-github-discussion-使用方法">课程回放</a>
+    <a href="">课程回放</a>
   </li>
 </ol>
 </details>
 <details>
-<summary>Chapter5 <a href="#1-回顾视频">Tools</a></summary>
+<summary>Chapter5 <a href="">Tools</a></summary>
 <ol>
   <li>
     <a href="">课程回放</a>
@@ -92,31 +98,49 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ## Solidity
 
-> Remix, how to deploy, types, interface
+> Solidity Basic Syntax, Tools, How to Deploy, etc
 
-### 1. Solidity Introduction
+### 1. Solidity Basic Syntax
 
 #### [本课视频](https://openbuild.xyz/learn/courses/95/2825)
 
 - Solidity 智能合约简介
 - Solidity 核心语法
-- 合约开发框架、工具介绍
-- 合约开发、调试、部署流程（使用 Remix）
 
-#### 课程资料
+#### References
 
-- [learn-solidity](https://github.com/pseudoyu/learn-solidity/)
-- [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
-- [Solidity 智能合约开发 - 基础](https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/)
-  
-### 2. ERC Contracts and Mini Exchange
+1. [Solidity 智能合约开发 - 基础](https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/)
+2. [learn-solidity](https://github.com/pseudoyu/learn-solidity/)
+3. [Demo Code](https://github.com/pseudoyu/social-dApp-demo-contracts)
+4. [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
+5. [Evangelion Theme](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
+
+
+### 2. Remix IDE
 
 #### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
+
+- Remix 使用
+- 智能合约生命周期
+
+#### References
+
+- [Remix - Ethereum IDE](https://remix.ethereum.org/)
+  
+### 3. ERC Contracts & OpenZeppelin
+
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
 
 - ERC/EIP 介绍
 - ERC20/ERC712/ERC1155 概念讲解
 - OpenZepplin 简介及实用库推荐
 - Mini Exchange Demo 讲解
+
+### 4. Foundry & ERC20 Exchange
+
+> 使用 Foundry 构建一个 ERC20 Exchange
+
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2835)
 
 ## Solidity Test & Security
 
