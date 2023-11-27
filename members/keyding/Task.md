@@ -60,3 +60,9 @@ npx hardhat deploy
 [View on Sepolia]( https://sepolia.etherscan.io/tx/0x7df043803eda759d0d38bc74228cf6c99655dac4652a532df86b95e2513078a1)
 
 ![NFT](./images/nft.png)
+
+## Task 3
+
+[GitHub](https://github.com/keyding/first-foundry)
+
+![Foundry Test](./images/test-result.png)
