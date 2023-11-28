@@ -281,6 +281,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 - [nodiesDLB](https://www.nodies.app/)
 - [alchemy](https://www.alchemy.com/)
 - [etherscan](https://etherscan.io/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/) :合约安全的小挑战。(卡关 推荐D-Squard YT频道)
 
 ### 7. 大佬博客
 
