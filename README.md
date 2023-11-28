@@ -126,6 +126,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 #### References
 
 - [Remix - Ethereum IDE](https://remix.ethereum.org/)
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - [ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
   
 ### 3. ERC Contracts & OpenZeppelin
 

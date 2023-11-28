@@ -1,4 +1,4 @@
-# Solidity 入门
+# Solidity 基础语法
 
 > 一门面向合约的、为实现智能合约而创建的高级编程语言
 
@@ -459,7 +459,9 @@ contract ReceiveEther {
 使用 i++ 二部署 ++i
 缓存数组元素
 
+## Summary
 
+这一部分主要介绍了 Solidity 的核心语法，但现在还不太明白如何使用。
 
 ## 问题
 
