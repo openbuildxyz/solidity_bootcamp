@@ -204,7 +204,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ### Demoday 优秀项目💰200-500U
 
-> 奖学金名额每个阶段共计 50 个。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
+> 奖学金名额每个阶段共计 50 个（副本任务和 Demoday 除外）。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
 
 
 ## 关于作业的提交说明
