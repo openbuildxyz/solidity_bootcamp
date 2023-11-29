@@ -188,11 +188,15 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ### 阶段二任务 💰10U
 
+#### 任务 1 - 分析token并对区块进行安全检测
+
+分析链上BNB链上token并Fork高度26793740的区块进行安全测试 0xddc0cff76bcc0ee14c3e73af630c029fe020f907
+
 ### 阶段三任务 💰10U
 
-### Demoday 💰200-500U
-
 > 奖学金名额每个阶段共计 50 个。为了防止女巫，参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
+
+### Demoday 优秀项目💰200-500U
 
 ## 关于作业的提交说明
 
@@ -281,6 +285,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 - [nodiesDLB](https://www.nodies.app/)
 - [alchemy](https://www.alchemy.com/)
 - [etherscan](https://etherscan.io/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/) :合约安全的小挑战。(卡关 推荐D-Squard YT频道)
 
 ### 7. 大佬博客
 
