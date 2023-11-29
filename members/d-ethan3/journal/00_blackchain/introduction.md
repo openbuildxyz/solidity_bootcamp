@@ -8,7 +8,7 @@
 - 高效，数据中心化存储
 - 无条件信任运营者
 
-### Web3
+### Web3 架构
 
 - P2P 架构
 - 每个节点同步数据，大量冗余备份
@@ -87,7 +87,7 @@
 
 Front-end Back-end Database
 
-### Web3
+### Web3 应用
 
 - 前端
   - 钱包插件
@@ -113,3 +113,4 @@ Front-end Back-end Database
    - Node.js
    - npm
    - hardhat
+
