@@ -135,9 +135,9 @@ root@ubuntu-s-1vcpu-1gb-sfo3-01:~/tokenERC20# npm install --save-dev hardhat
 
 #### 1.2.1 [查询 RPC 配置节点](Chainlist.org)
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-6.png" alt="0-basic-6" style="zoom:67%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-6.png" alt="0-basic-6" style="zoom:67%;" />
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-9.png" alt="0-basic-9" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-9.png" alt="0-basic-9" style="zoom:50%;" />
 
 #### 1.2.2 区块浏览器
 
@@ -145,7 +145,7 @@ root@ubuntu-s-1vcpu-1gb-sfo3-01:~/tokenERC20# npm install --save-dev hardhat
 
 ​	meter：[Meter | Explorer](https://scan.meter.io/)
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-5.png" alt="0-basic-5" style="zoom:67%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-5.png" alt="0-basic-5" style="zoom:67%;" />
 
 
 
@@ -153,11 +153,11 @@ root@ubuntu-s-1vcpu-1gb-sfo3-01:~/tokenERC20# npm install --save-dev hardhat
 
 ​	1.登录[Faucet for Testnet](https://faucet-warringstakes.meter.io/)，输入钱包地址（metamask）；
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-7.png" alt="0-basic-7" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-7.png" alt="0-basic-7" style="zoom:50%;" />
 
 2.点击"Claim Now"：
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-8.png" alt="0-basic-8" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-8.png" alt="0-basic-8" style="zoom:50%;" />
 
 
 
@@ -220,7 +220,7 @@ Deploying: ERC20MintablePauseable
 
 使用代币交易的 hash_id 在[区块浏览器](scan.meter.io)中查询：
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-11.png" alt="0-basic-11" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-11.png" alt="0-basic-11" style="zoom:50%;" />
 
 
 
@@ -228,7 +228,7 @@ Deploying: ERC20MintablePauseable
 
 点击部署的代币 **solBoot**，验证合约（如果未验证，需要先选择当前部署的合约，再做手动验证）：
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-12.png" alt="0-basic-12" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-12.png" alt="0-basic-12" style="zoom:50%;" />
 
 ```sh
 # 包含智能合约所有信息的json文件
@@ -241,9 +241,9 @@ root@ubuntu-s-1vcpu-1gb-sfo3-01:~/tokenERC20# ls *.json
 
 #### 1.4.3 导入 token
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-13.png" alt="0-basic-13" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-13.png" alt="0-basic-13" style="zoom:50%;" />
 
 <img src="images\0-basic-14.png" alt="0-basic-14" style="zoom:50%;" />
 
-<img src="D:\Program\Projects\online_courses\solidity_bootcamp - openbuildxyz\images\0-basic-15.png" alt="0-basic-15" style="zoom:50%;" />
+<img src="https://github.com/yh515511038/solidity_bootcamp/blob/main/studyNotes/yh515511038/images/0-basic-15.png" alt="0-basic-15" style="zoom:50%;" />
 
