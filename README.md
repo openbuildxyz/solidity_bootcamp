@@ -1,6 +1,6 @@
 <div align="center">
   <h1>OpenBuild Solidity Bootcamp</h1>
-  
+
   OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
   ***Co-learn Solidity，一起变强！*** 🔥🔥🔥
@@ -194,9 +194,18 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ### 阶段三任务 💰10U
 
-> 奖学金名额每个阶段共计 50 个。为了防止女巫，参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
+
+### 副本任务 💰10-100U
+####  Demoday Chainlink 赛道活动
+1. 点击此链接：[Chainlink Constellation Hackathon](https://chain.link/hackathon/?utm_medium=paid-affiliate&utm_source=openbuild&utm_campaign=constellation-hackathon&agid=5v6v0t3nj48k&cnid=ysb20mm22oyl) 报名 Chainlink Hackathon（初步报名无需提交项目）
+2. 报名成功后点此 [报名抽奖登记](https://wenjuan.feishu.cn/m?t=sCfTOn5rLVRi-ban4) 可以参与报名抽奖，奖品：OpenBuild / Chainlink 周边, 微信红包等，**100% 中奖！**（*本赛道活动发布前报名的无法参与次活动*）
+2. 在最终的 Demoday 的项目中使用 Chainlink 的服务或能力：https://docs.chain.link ，根据项目质量给于 50-100U 的固定奖励（Hackathon 奖金之外），提交后请联系`秋秋`登记项目名称
+
 
 ### Demoday 优秀项目💰200-500U
+
+> 奖学金名额每个阶段共计 50 个。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
+
 
 ## 关于作业的提交说明
 
