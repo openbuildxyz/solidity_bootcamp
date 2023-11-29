@@ -195,7 +195,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 ### 阶段三任务 💰10U
 
 
-### 副本任务 💰10-100U
+### 副本任务 💰1-100U
 ####  任务 1 - Demoday Chainlink 赛道活动
 1. 点击此链接：[Chainlink Constellation Hackathon](https://chain.link/hackathon/?utm_medium=paid-affiliate&utm_source=openbuild&utm_campaign=constellation-hackathon&agid=5v6v0t3nj48k&cnid=ysb20mm22oyl) 报名 Chainlink Hackathon（初步报名无需提交项目）
 2. 报名成功后点此 [报名抽奖登记](https://wenjuan.feishu.cn/m?t=sCfTOn5rLVRi-ban4) 可以参与报名抽奖，奖品：OpenBuild / Chainlink 周边, 微信红包等，**100% 中奖！**（*本赛道活动发布前报名的无法参与次活动*）
