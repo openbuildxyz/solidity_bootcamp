@@ -6,6 +6,52 @@
   ***Co-learn Solidity，一起变强！*** 🔥🔥🔥
 </div>
 
+## 目录
+
+- [Introduction](#introduction)
+- [Github Discussion 使用方法](#github-discussion-使用方法)
+- [Chapters](#chapters)
+  - [Blockchain Introduction](#blockchain-introduction)
+    - [视频：区块链入门](#视频区块链入门)
+  - [Solidity](#solidity)
+    - [1. Solidity Basic Syntax](#1-solidity-basic-syntax)
+      - [本课视频](#本课视频)
+      - [References](#references)
+    - [2. Remix IDE](#2-remix-ide)
+      - [本课视频](#本课视频-1)
+      - [References](#references-1)
+    - [3. ERC Contracts \& OpenZeppelin](#3-erc-contracts--openzeppelin)
+      - [本课视频](#本课视频-2)
+    - [4. Foundry \& ERC20 Exchange](#4-foundry--erc20-exchange)
+      - [本课视频](#本课视频-3)
+  - [Solidity Test \& Security](#solidity-test--security)
+  - [Frontend in Web3](#frontend-in-web3)
+  - [Tools](#tools)
+  - [One More Thing](#one-more-thing)
+- [🏅️ 通关任务](#️-通关任务)
+  - [阶段一 💰10U](#阶段一-10u)
+    - [任务 1 - 区块链开发例子-部署一个ERC20代币](#任务-1---区块链开发例子-部署一个erc20代币)
+    - [任务 2 - 发行一个ERC721的NFT合约](#任务-2---发行一个erc721的nft合约)
+    - [任务 3 - 使用foundry框架编译和测试](#任务-3---使用foundry框架编译和测试)
+  - [阶段二任务 💰10U](#阶段二任务-10u)
+    - [任务 1 - 分析token并对区块进行安全检测](#任务-1---分析token并对区块进行安全检测)
+  - [阶段三任务 💰10U](#阶段三任务-10u)
+  - [副本任务 💰1-100U](#副本任务-1-100u)
+    - [任务 1 - Demoday Chainlink 赛道活动](#任务-1---demoday-chainlink-赛道活动)
+  - [Demoday 优秀项目💰200-500U](#demoday-优秀项目200-500u)
+- [关于作业的提交说明](#关于作业的提交说明)
+- [推荐材料](#推荐材料)
+  - [1. 人文基础](#1-人文基础)
+  - [2. 技术基础](#2-技术基础)
+  - [3. PDFs](#3-pdfs)
+  - [4. 官方文档](#4-官方文档)
+  - [5. 学习网站](#5-学习网站)
+  - [6. 相关资源](#6-相关资源)
+  - [7. 大佬博客](#7-大佬博客)
+  - [8. 其他文章](#8-其他文章)
+- [视频资料](#视频资料)
+- [foundry](#foundry)
+
 ## Introduction
 
 为了让更多的 Web2 的开发者和准备入手 Web3 开发的同学丝滑掉进入这个兔子洞。
@@ -81,7 +127,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 </ol>
 </details>
 
-## Blockchain Introduction
+### Blockchain Introduction
 
 > 区块链解决什么问题，Web2 与 Web3 的不同, 给 Web2 开发者的机会，Wallet 、 Layers
 
@@ -90,24 +136,24 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 3. 区块链技术学习路线
 4. 典型 Web2 与 Web3 应用的不同
 
-### 视频：[区块链入门](https://openbuild.xyz/learn/courses/95/2824)
+#### 视频：[区块链入门](https://openbuild.xyz/learn/courses/95/2824)
 
 <!-- ### Best Practices -->
 
 <!-- <p align="right">(<a href="#introduction">back to top</a>) ⬆️</p> -->
 
-## Solidity
+### Solidity
 
 > Solidity Basic Syntax, Tools, How to Deploy, etc
 
-### 1. Solidity Basic Syntax
+#### 1. Solidity Basic Syntax
 
-#### [本课视频](https://openbuild.xyz/learn/courses/95/2825)
+##### [本课视频](https://openbuild.xyz/learn/courses/95/2825)
 
 - Solidity 智能合约简介
 - Solidity 核心语法
 
-#### References
+##### References
 
 1. [Solidity 智能合约开发 - 基础](https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/)
 2. [learn-solidity](https://github.com/pseudoyu/learn-solidity/)
@@ -116,39 +162,39 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 5. [Evangelion Theme](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
 
 
-### 2. Remix IDE
+#### 2. Remix IDE
 
-#### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
+##### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
 
 - Remix 使用
 - 智能合约生命周期
 
-#### References
+##### References
 
 - [Remix - Ethereum IDE](https://remix.ethereum.org/)
   
-### 3. ERC Contracts & OpenZeppelin
+#### 3. ERC Contracts & OpenZeppelin
 
-#### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
+##### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
 
 - ERC/EIP 介绍
 - ERC20/ERC712/ERC1155 概念讲解
 - OpenZepplin 简介及实用库推荐
 - Mini Exchange Demo 讲解
 
-### 4. Foundry & ERC20 Exchange
+#### 4. Foundry & ERC20 Exchange
 
 > 使用 Foundry 构建一个 ERC20 Exchange
 
-#### [本课视频](https://openbuild.xyz/learn/courses/95/2835)
+##### [本课视频](https://openbuild.xyz/learn/courses/95/2835)
 
-## Solidity Test & Security
+### Solidity Test & Security
 
-## Frontend in Web3
+### Frontend in Web3
 
-## Tools
+### Tools
 
-## One More Thing
+### One More Thing
 
 **Offline Hackerhouse**  (北京/上海/深圳/成都多地)
 
