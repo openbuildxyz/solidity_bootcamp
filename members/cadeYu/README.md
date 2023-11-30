@@ -17,3 +17,14 @@ Discord ID: insightyu#4109
 ![image](/members/cadeYu/img/WX20231127-204245@2x.png)
 ![image](/members/cadeYu/img/WX20231127-204310@2x.png)
 
+1. ***一个简单的 erc721 部署示例***
+[Task2]() --- [Check it on Goerli](https://goerli.etherscan.io/tx/0xd32fd0b37aba931b94d7660ea305d59d035dd8b1df3e4193df5da7c83954b0dd#)
+![image](/members/cadeYu/img/9631701156857_.pic.jpg)
+![image](/members/cadeYu/img/9641701156869_.pic.jpg)
+![image](/members/cadeYu/img/9651701156882_.pic.jpg)
+
+1. ***一个简单的 foundry 框架编译和测试***
+[Task3](https://github.com/CadeYu/MerkleProofSolidityTest) 
+![image](/members/cadeYu/img/WechatIMG966.jpg)
+
+
