@@ -4,6 +4,22 @@
   OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
   ***Co-learn Solidity，一起变强！*** 🔥🔥🔥
+
+  目录
+  ===
+
+   [Intrduction](#introduction)  
+   [Chapters](#chapters)  
+   [Blockchain](#blockchain-introduction)  
+   [Solidity](#solidity)  
+   [Solidity Test & Security](#solidity-test--security)  
+   [Frontend in Wbe3](#frontend-in-web3)  
+   [Tools](#tools)  
+   [One More Thing](#one-more-thing)  
+   [🏅通关任务](#🏅️-通关任务)  
+   [关于作业的说明](#关于作业的提交说明)  
+   [推荐材料](#推荐材料)  
+   [视频资料](#视频资料)  
 </div>
 
 ## Introduction
