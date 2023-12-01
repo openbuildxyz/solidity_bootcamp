@@ -126,3 +126,13 @@ Front-end Back-end Database
 
 安装 tokenERC20 的 [README.md](https://github.com/meterio/tokenERC20/blob/main/README.md) 去实现每个步骤就好啦
 
+### 实现步骤
+
+得加 `--force` 才可以
+
+```bash
+npm install --force
+```
+
+这个人 repo 中的很多库需要更新源
+
