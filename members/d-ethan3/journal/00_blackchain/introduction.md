@@ -113,3 +113,16 @@ Front-end Back-end Database
    - Node.js
    - npm
    - hardhat
+
+## ERC20 实战过程
+
+## 前置条件
+
+1. 安装 node.js / npm / hardhat
+
+有一个以太坊钱包，在浏览器中安装好钱包插件
+
+先去 [Faucet for Testnet](https://faucet-warringstakes.meter.io/) 上领点测试币，通常是 2000 MTR
+
+安装 tokenERC20 的 [README.md](https://github.com/meterio/tokenERC20/blob/main/README.md) 去实现每个步骤就好啦
+
