@@ -3,17 +3,25 @@
 
   OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
-  ***Co-learn Solidity，一起变强！*** 🔥🔥🔥
+ 🔥🔥🔥 <a href="">***黑客松组队持续报名！***</a> 🔥🔥🔥
 </div>
 
-## 目录
 
-- [Introduction](#introduction)
-- [Github Discussion 使用方法](#github-discussion-使用方法)
-- [Chapters](#chapters)
-  - [Blockchain Introduction](#blockchain-introduction)
+| 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 | 
+| ------------------ | --------------------------------------------- |------------------ | ----------------------------- |  ---------------|
+| Genius  | OpenLeaning  | 一个质押共学平台 |   整体用xxxx开发  |  合约：暴龙、前端：D  |
+| 绿行链Web3 | EvCharingingApp  | 为新能源车的车主提供便利的加密货币支付手段促进人们选择绿色出现的方式，减少人们的碳排放。| 整体用hardhat开发链外数据使用chainlink的预言机提供服务 |  Welk、黄艇  |
+
+
+
+## Directory / 目录
+
+- [Introduction / 介绍](#introduction)
+- [Github Discussion / GitHub讨论方式](#github-discussion-使用方法)
+- [Chapters / 章节](#chapters)
+  - [Blockchain Introduction / 区块链介绍](#blockchain-introduction)
     - [视频：区块链入门](#视频区块链入门)
-  - [Solidity](#solidity)
+  - [Solidity / Solidity编程](#solidity)
     - [1. Solidity Basic Syntax](#1-solidity-basic-syntax)
       - [本课视频](#本课视频)
       - [References](#references)
@@ -24,10 +32,10 @@
       - [本课视频](#本课视频-2)
     - [4. Foundry \& ERC20 Exchange](#4-foundry--erc20-exchange)
       - [本课视频](#本课视频-3)
-  - [Solidity Test \& Security](#solidity-test--security)
-  - [Frontend in Web3](#frontend-in-web3)
-  - [Tools](#tools)
-  - [One More Thing](#one-more-thing)
+  - [Solidity Test \& Security / 测试与安全](#solidity-test--security)
+  - [Frontend in Web3 / web3前端](#frontend-in-web3)
+  - [Tools / 工具](#tools)
+  - [One More Thing / 其他](#one-more-thing)
 - [🏅️ 通关任务](#️-通关任务)
   - [阶段一 💰10U](#阶段一-10u)
     - [任务 1 - 区块链开发例子-部署一个ERC20代币](#任务-1---区块链开发例子-部署一个erc20代币)
