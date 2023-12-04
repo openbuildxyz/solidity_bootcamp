@@ -35,7 +35,7 @@
   - [Solidity Test \& Security / 测试与安全](#solidity-test--security)
   - [Frontend in Web3 / web3前端](#frontend-in-web3)
   - [Tools / 工具](#tools)
-  - [One More Thing /](#one-more-thing)
+  - [One More Thing / 其他](#one-more-thing)
 - [🏅️ 通关任务](#️-通关任务)
   - [阶段一 💰10U](#阶段一-10u)
     - [任务 1 - 区块链开发例子-部署一个ERC20代币](#任务-1---区块链开发例子-部署一个erc20代币)
