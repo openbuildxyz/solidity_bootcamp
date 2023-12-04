@@ -14,10 +14,10 @@
 
 
 
-## 目录
+## Directory / 目录
 
-- [Introduction/ 介绍](#introduction)
-- [Github Discussion / GitHub使用方法](#github-discussion-使用方法)
+- [Introduction / 介绍](#introduction)
+- [Github Discussion / GitHub讨论方式](#github-discussion-使用方法)
 - [Chapters / 章节](#chapters)
   - [Blockchain Introduction / 区块链介绍](#blockchain-introduction)
     - [视频：区块链入门](#视频区块链入门)
