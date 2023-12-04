@@ -2,8 +2,11 @@
 
 🎉 Deployment success 
 
+![Deploy success](./images/NFT.png)
 ## Transaction Details
+- **contract address**: 
+0xEF9652419274898F150255FcD01997bdBC36a10B
 
-- **Transaction Hash**: 0xd51ad32171420564b64d7b82d24700f03d3da4e6986b5d47a16530633a3c09dc
+- **Transaction Hash**: 0x52f61dd2f40415c7997e6cfa969868243dee1e8541db76893f3a1b23947858f5
 
-![Transaction details](./images/task2.png)
+![Transaction details](./images/Task2_detail.png)
