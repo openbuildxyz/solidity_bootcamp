@@ -23,3 +23,8 @@ Discord ID: insightyu#4109
 ![image](/members/cadeYu/img/9641701156869_.pic.jpg)
 ![image](/members/cadeYu/img/9651701156882_.pic.jpg)
 
+1. ***一个简单的 foundry 框架编译和测试***
+[Task3](https://github.com/CadeYu/MerkleProofSolidityTest) 
+![image](/members/cadeYu/img/WechatIMG966.jpg)
+
+
