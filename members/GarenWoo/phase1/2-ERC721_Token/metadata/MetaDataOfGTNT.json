@@ -1,0 +1,24 @@
+{
+    "title": "Garen Test NFT",
+    "description": "Garen Participated in Solidity Boot Camp raised by Openbuild",
+    "image": "ipfs://QmRMZEyUv7gJEmDUNZrprfmpsXGFReEc3opVvBQecFjkhi",
+    "attributes": [
+        {
+            "trait_type": "tokenID",
+            "value": "#0"
+        },
+        {
+            "trait_type": "Organization",
+            "value": "OpenBuild"
+        },
+        {
+            "trait_type": "Activity",
+            "value": "Solidity_Boot_Camp"
+        },
+        {
+            "trait_type": "Year",
+            "value": "2023"
+        }
+    ],
+    "version": "1"
+}
