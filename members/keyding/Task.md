@@ -1,6 +1,6 @@
 # 作业合集
 
-## Task 1
+## Stage 1 - Task 1
 
 ### Deployment process
 
@@ -53,7 +53,7 @@ npx hardhat deploy
 - [tokenERC20](https://github.com/meterio/tokenERC20)
 - [ChainList](https://chainlist.org/)
 
-## Task 2
+## Stage 1 - Task 2
 
 [Github](https://github.com/keyding/solidity_bootcamp_task2)
 
@@ -61,8 +61,12 @@ npx hardhat deploy
 
 ![NFT](./images/nft.png)
 
-## Task 3
+## Stage 1 - Task 3
 
 [GitHub](https://github.com/keyding/first-foundry)
 
 ![Foundry Test](./images/test-result.png)
+
+## Stage 2 - Task
+
+[GitHub](https://github.com/keyding/foundry-test-token.git)
