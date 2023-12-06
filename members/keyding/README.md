@@ -16,9 +16,13 @@ Wallet Address: `0xC2745cd26F703C869a6d4797472f64a599C4ED65`
 
 ## 作业提交
 
-[Task1](Task.md#task-1)
+[Stage 1 - Task 1](Task.md#stage-1---task-1)
 
-[Task2](Task.md#task-2)
+[Stage 1 - Task 2](Task.md#stage-1---task-2)
+
+[Stage 1 - Task 3](Task.md#stage-1---task-3)
+
+[Stage 2](Task.md#stage-2---task)
 
 ## 学习日志
 

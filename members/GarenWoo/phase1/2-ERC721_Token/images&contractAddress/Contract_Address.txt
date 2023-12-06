@@ -1,0 +1,8 @@
+Network: 
+Ethereum Sepolia Testnet
+
+Contract Address: 
+https://sepolia.etherscan.io/address/0x2bCb14A008897B6975BA54f1c5f0c11e6d6dC7a4
+
+NFT #0 shown on OpenSea Testnet:
+https://testnets.opensea.io/assets/sepolia/0x2bCb14A008897B6975BA54f1c5f0c11e6d6dC7a4/0
