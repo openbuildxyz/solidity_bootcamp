@@ -6,13 +6,10 @@
  🔥🔥🔥 <a href="">***黑客松组队持续报名！***</a> 🔥🔥🔥
 </div>
 
-
-| 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 | 
+| 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 |
 | ------------------ | --------------------------------------------- |------------------ | ----------------------------- |  ---------------|
 | Genius  | OpenLeaning  | 一个质押共学平台 |   整体用xxxx开发  |  合约：暴龙、前端：D  |
 | 绿行链Web3 | EvCharingingApp  | 为新能源车的车主提供便利的加密货币支付手段促进人们选择绿色出现的方式，减少人们的碳排放。| 整体用hardhat开发链外数据使用chainlink的预言机提供服务 |  Welk、黄艇  |
-
-
 
 ## Directory / 目录
 
@@ -66,8 +63,6 @@
 
 OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，通过4周的学习帮助你从 Web2 无缝过渡到 Web3 开发，成为solidity开发，为你开启一个充满可能性和机遇的世界。🚢
 
-
-
 ## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
 | Categories         | Description                                                  |
@@ -76,9 +71,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 | [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑   |
 | [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
 | 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
-
-
-
 
 ## Chapters
 
@@ -169,7 +161,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 4. [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
 5. [Evangelion Theme](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
 
-
 #### 2. Remix IDE
 
 ##### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
@@ -206,7 +197,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 ### One More Thing
 
 **Offline Hackerhouse**  (北京/上海/深圳/成都多地)
-
 
 ## 🏅️ 通关任务
 
@@ -253,18 +243,36 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ### 阶段三任务 💰10U
 
+#### 终极任务🐉
+
+#### 任务 1 - Chainlink Data Feed
+
+1. 学习[下述学习资料](#学习资料)中的 Chainlink Data Feed（喂价）部分内容。
+2. 完成 [contracts/DataFeedTask.sol](./contracts/DataFeedTask.sol) 中的任务。
+
+#### 任务 2 - Chainlink VRF
+
+1. 学习[下述学习资料](#学习资料)的 Chainlink VRF（可验证随机数）部分内容。
+2. 完成 [contracts/VRFTask.sol](./contracts/VRFTask.sol) 中的任务。
+
+#### 任务 3 - Chainlink Automation
+
+1. 学习[下述学习资料](#学习资料)中的 Chainlink Automation（合约自动化执行）部分内容。
+2. 完成 [contracts/AutomationTask.sol](./contracts/AutomationTask.sol) 中的任务。
+
+<b>:beer: :beer: 完成以上 3 个任务后，请提交用来完成任务的测试网地址，将发送 SBT 证明！ :beer: :beer:</b>
 
 ### 副本任务 💰1-100U
-####  任务 1 - Demoday Chainlink 赛道活动
+
+#### 任务 1 - Demoday Chainlink 赛道活动
+
 1. 点击此链接：[Chainlink Constellation Hackathon](https://chain.link/hackathon/?utm_medium=paid-affiliate&utm_source=openbuild&utm_campaign=constellation-hackathon&agid=5v6v0t3nj48k&cnid=ysb20mm22oyl) 报名 Chainlink Hackathon（初步报名无需提交项目）
 2. 报名成功后点此 [报名抽奖登记](https://wenjuan.feishu.cn/m?t=sCfTOn5rLVRi-ban4) 可以参与报名抽奖，奖品：OpenBuild / Chainlink 周边, 微信红包等，**100% 中奖！**（*本活动发布前报名的或使用临时/虚拟邮箱注册的无法参与*）
-2. 在最终的 Demoday 的项目中使用 Chainlink 的服务：https://docs.chain.link ，根据项目质量给于 50-100U 的固定奖励（Hackathon 奖金之外），提交后请联系`秋秋`登记项目名称
-
+2. 在最终的 Demoday 的项目中使用 Chainlink 的服务：<https://docs.chain.link> ，根据项目质量给于 50-100U 的固定奖励（Hackathon 奖金之外），提交后请联系`秋秋`登记项目名称
 
 ### Demoday 优秀项目💰200-500U
 
-> 奖学金名额每个阶段共计 50 个（副本任务和 Demoday 除外）。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
-
+> 奖学金名额每个阶段共计 50 个（副本任务和 Demoday 除外）。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github
 
 ## 关于作业的提交说明
 
@@ -370,4 +378,21 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 - [《区块链技术与应用》by 北京大学肖臻老师](https://www.bilibili.com/video/BV1Vt411X7JF/)
 
-## [foundry](./foundry.md)
+## Foundry
+
+- [Foundry Book](https://book.getfoundry.sh/)
+- [Foundry 常用命令](https://app.heptabase.com/w/3fbd82f11298301c426a2fbaeb6b0bab9322bbba075785ba3788c4acba6a630d)
+- [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
+
+ERC 相关：
+
+<https://www.coindesk.com/learn/what-are-eip-and-erc-and-how-are-they-connected/>
+<https://ethereum.org/en/developers/docs/standards/tokens/erc-20/>
+<https://ethereum.org/en/developers/docs/standards/tokens/erc-721/>
+<https://celo.academy/t/a-practical-comparison-between-erc-1155-and-erc-721/62>
+
+Demo 项目：
+
+<https://github.com/pseudoyu/exchange-demo-contracts/>
+
+<https://github.com/pseudoyu/social-dApp-demo-contracts>
