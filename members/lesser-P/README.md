@@ -37,6 +37,20 @@ Discord ID: 1120632081802875024
 [Wallet](/members/lesser-P/walletUI/wallet.png)
 [Network](/members/lesser-P/walletUI/net.png)
 
+### 第三阶段
+
+#### Task1 DataFeedTask
+
+https://sepolia.etherscan.io/address/0xcFD196Dfd4418eb4Dad91017ADf681b5121e1113#readContract
+
+#### Task2 VRFTask
+
+https://sepolia.etherscan.io/address/0x54e619aa34a4df4df1d9e4f3f747adeffa337387
+
+#### Task3 AutomationTask
+
+https://sepolia.etherscan.io/address/0x6E13b9576EacF61212aEdc93B2F36cebc87c3092#code
+
 ## 学习日志
 
 [第一课笔记](journal/1.md)
