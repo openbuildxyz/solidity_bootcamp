@@ -6,13 +6,10 @@
  🔥🔥🔥 <a href="">***黑客松组队持续报名！***</a> 🔥🔥🔥
 </div>
 
-
-| 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 | 
+| 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 |
 | ------------------ | --------------------------------------------- |------------------ | ----------------------------- |  ---------------|
 | Genius  | OpenLeaning  | 一个质押共学平台 |   整体用xxxx开发  |  合约：暴龙、前端：D  |
 | 绿行链Web3 | EvCharingingApp  | 为新能源车的车主提供便利的加密货币支付手段促进人们选择绿色出现的方式，减少人们的碳排放。| 整体用hardhat开发链外数据使用chainlink的预言机提供服务 |  Welk、黄艇  |
-
-
 
 ## Directory / 目录
 
@@ -66,8 +63,6 @@
 
 OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，通过4周的学习帮助你从 Web2 无缝过渡到 Web3 开发，成为solidity开发，为你开启一个充满可能性和机遇的世界。🚢
 
-
-
 ## [Github Discussion](https://github.com/openbuildxyz/solidity_bootcamp/discussions) 使用方法
 
 | Categories         | Description                                                  |
@@ -76,9 +71,6 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 | [🙏 Q&A](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/q-a)              | 提问 / 答疑   |
 | [💰Bounty](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/bounty)   | Bounty 任务：课堂作业/课堂笔记/社区贡献etc|
 | 💡[I've got an idea!](https://github.com/openbuildxyz/solidity_bootcamp/discussions/categories/ideas)   | 关于一些 Amazing fancy ideas, 用来<br />1. solidity共学 <br />2. 组队开发<br />3. 参加黑客松<br />4. 招聘内推<br />5. 自娱自乐🎣<br /> |
-
-
-
 
 ## Chapters
 
@@ -127,7 +119,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 </ol>
 </details>
 <details>
-<summary>Chapter5 <a href="">Tools</a></summary>
+<summary>Chapter5 <a href="#dev-tools-and-ecosystem">Dev Tools and Ecosystem</a></summary>
 <ol>
   <li>
     <a href="">课程回放</a>
@@ -135,7 +127,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 </ol>
 </details>
 
-### Blockchain Introduction
+## Blockchain Introduction
 
 > 区块链解决什么问题，Web2 与 Web3 的不同, 给 Web2 开发者的机会，Wallet 、 Layers
 
@@ -144,24 +136,24 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 3. 区块链技术学习路线
 4. 典型 Web2 与 Web3 应用的不同
 
-#### 视频：[区块链入门](https://openbuild.xyz/learn/courses/95/2824)
+### 视频：[区块链入门](https://openbuild.xyz/learn/courses/95/2824)
 
 <!-- ### Best Practices -->
 
 <!-- <p align="right">(<a href="#introduction">back to top</a>) ⬆️</p> -->
 
-### Solidity
+## Solidity
 
 > Solidity Basic Syntax, Tools, How to Deploy, etc
 
-#### 1. Solidity Basic Syntax
+### 1. Solidity Basic Syntax
 
-##### [本课视频](https://openbuild.xyz/learn/courses/95/2825)
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2825)
 
 - Solidity 智能合约简介
 - Solidity 核心语法
 
-##### References
+#### References
 
 1. [Solidity 智能合约开发 - 基础](https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/)
 2. [learn-solidity](https://github.com/pseudoyu/learn-solidity/)
@@ -169,43 +161,61 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 4. [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
 5. [Evangelion Theme](https://marketplace.visualstudio.com/items?itemName=RuDevIO.evangelion-theme)
 
+### 2. Remix IDE
 
-#### 2. Remix IDE
-
-##### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2826)
 
 - Remix 使用
 - 智能合约生命周期
 
-##### References
+#### References
 
 - [Remix - Ethereum IDE](https://remix.ethereum.org/)
+- [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - [ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
   
-#### 3. ERC Contracts & OpenZeppelin
+### 3. ERC Contracts & OpenZeppelin
 
-##### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
 
 - ERC/EIP 介绍
 - ERC20/ERC712/ERC1155 概念讲解
 - OpenZepplin 简介及实用库推荐
 - Mini Exchange Demo 讲解
 
-#### 4. Foundry & ERC20 Exchange
+### 4. Foundry & ERC20 Exchange
 
 > 使用 Foundry 构建一个 ERC20 Exchange
 
-##### [本课视频](https://openbuild.xyz/learn/courses/95/2835)
+#### [本课视频](https://openbuild.xyz/learn/courses/95/2835)
 
 ### Solidity Test & Security
 
 ### Frontend in Web3
 
-### Tools
+## Dev Tools and Ecosystem
 
-### One More Thing
+### 1. EVM Contract Bytecode and Data Analysis On Chain
+
+#### [本课视频](https://openbuild.xyz/learn/challenges/95/2831)
+
+### 2. Oracle
+
+#### Exercise
+
+大家可以试试几个 Demo:
+
+[Functions Lens Eventbrite](https://github.com/smartcontractkit/functions-lens-eventbrite)
+> 通过Functions连接Lens和eventbrite，根据用户在链上的行为发布一些活动的优惠券
+
+[Functions: The Graph and Uniswap](https://github.com/smartcontractkit/functions-the-graph-uniswap)
+> 通过Functions获取ETH价格然后触发uniswap交易
+
+[CCIP Cross Chain NFT](https://github.com/smartcontractkit/ccip-cross-chain-nft)
+> CCIP跨链NFT
+
+## One More Thing
 
 **Offline Hackerhouse**  (北京/上海/深圳/成都多地)
-
 
 ## 🏅️ 通关任务
 
@@ -246,20 +256,31 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 分析链上BNB链上token并Fork高度26793740的区块进行安全测试 0xddc0cff76bcc0ee14c3e73af630c029fe020f907
 
+#### 任务 2 - 自定义编写一个钱包 UI
+
+查看wagmi文档和rainbow源码，根据官方例子自定义编写一个钱包 UI
+
 ### 阶段三任务 💰10U
 
+**终极任务🐉**
+
+完成 [ChainlinkLearningPath](https://github.com/QingyangKong/ChainlinkLearningPath) 中全部的三个任务
+
+还可以获得Chainlink的 SBT 学历证明以及 Chainlink Swag
+
+🚀🚀🚀
 
 ### 副本任务 💰1-100U
-####  任务 1 - Demoday Chainlink 赛道活动
+
+#### 任务 1 - Demoday Chainlink 赛道活动
+
 1. 点击此链接：[Chainlink Constellation Hackathon](https://chain.link/hackathon/?utm_medium=paid-affiliate&utm_source=openbuild&utm_campaign=constellation-hackathon&agid=5v6v0t3nj48k&cnid=ysb20mm22oyl) 报名 Chainlink Hackathon（初步报名无需提交项目）
 2. 报名成功后点此 [报名抽奖登记](https://wenjuan.feishu.cn/m?t=sCfTOn5rLVRi-ban4) 可以参与报名抽奖，奖品：OpenBuild / Chainlink 周边, 微信红包等，**100% 中奖！**（*本活动发布前报名的或使用临时/虚拟邮箱注册的无法参与*）
-2. 在最终的 Demoday 的项目中使用 Chainlink 的服务：https://docs.chain.link ，根据项目质量给于 50-100U 的固定奖励（Hackathon 奖金之外），提交后请联系`秋秋`登记项目名称
-
+3. 在最终的 Demoday 的项目中使用 Chainlink 的服务：<https://docs.chain.link> ，根据项目质量给于 50-100U 的固定奖励（Hackathon 奖金之外），提交后请联系`秋秋`登记项目名称
 
 ### Demoday 优秀项目💰200-500U
 
-> 奖学金名额每个阶段共计 50 个（副本任务和 Demoday 除外）。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github 
-
+> 奖学金名额每个阶段共计 50 个（副本任务和 Demoday 除外）。为了防止女巫，以上活动参与的人必须注册和完善 OpenBuild [https://openbuild.xyz/](https://openbuild.xyz/) 的 Profile，且必须绑定 Github
 
 ## 关于作业的提交说明
 
@@ -365,4 +386,21 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 - [《区块链技术与应用》by 北京大学肖臻老师](https://www.bilibili.com/video/BV1Vt411X7JF/)
 
-## [foundry](./foundry.md)
+## Foundry
+
+- [Foundry Book](https://book.getfoundry.sh/)
+- [Foundry 常用命令](https://app.heptabase.com/w/3fbd82f11298301c426a2fbaeb6b0bab9322bbba075785ba3788c4acba6a630d)
+- [foundry-starter-kit](https://github.com/pseudoyu/foundry-starter-kit)
+
+ERC 相关：
+
+<https://www.coindesk.com/learn/what-are-eip-and-erc-and-how-are-they-connected/>
+<https://ethereum.org/en/developers/docs/standards/tokens/erc-20/>
+<https://ethereum.org/en/developers/docs/standards/tokens/erc-721/>
+<https://celo.academy/t/a-practical-comparison-between-erc-1155-and-erc-721/62>
+
+Demo 项目：
+
+<https://github.com/pseudoyu/exchange-demo-contracts/>
+
+<https://github.com/pseudoyu/social-dApp-demo-contracts>
