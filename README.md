@@ -1,6 +1,5 @@
 <div align="center">
   <h1>OpenBuild Solidity Bootcamp</h1>
-
   OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
  🔥🔥🔥 <a href="">***黑客松组队持续报名！***</a> 🔥🔥🔥
@@ -13,49 +12,66 @@
 
 ## Directory / 目录
 
-- [Introduction / 介绍](#introduction)
-- [Github Discussion / GitHub讨论方式](#github-discussion-使用方法)
-- [Chapters / 章节](#chapters)
-  - [Blockchain Introduction / 区块链介绍](#blockchain-introduction)
-    - [视频：区块链入门](#视频区块链入门)
-  - [Solidity / Solidity编程](#solidity)
-    - [1. Solidity Basic Syntax](#1-solidity-basic-syntax)
-      - [本课视频](#本课视频)
-      - [References](#references)
-    - [2. Remix IDE](#2-remix-ide)
-      - [本课视频](#本课视频-1)
-      - [References](#references-1)
-    - [3. ERC Contracts \& OpenZeppelin](#3-erc-contracts--openzeppelin)
-      - [本课视频](#本课视频-2)
-    - [4. Foundry \& ERC20 Exchange](#4-foundry--erc20-exchange)
-      - [本课视频](#本课视频-3)
-  - [Solidity Test \& Security / 测试与安全](#solidity-test--security)
-  - [Frontend in Web3 / web3前端](#frontend-in-web3)
-  - [Tools / 工具](#tools)
-  - [One More Thing / 其他](#one-more-thing)
-- [🏅️ 通关任务](#️-通关任务)
-  - [阶段一 💰10U](#阶段一-10u)
-    - [任务 1 - 区块链开发例子-部署一个ERC20代币](#任务-1---区块链开发例子-部署一个erc20代币)
-    - [任务 2 - 发行一个ERC721的NFT合约](#任务-2---发行一个erc721的nft合约)
-    - [任务 3 - 使用foundry框架编译和测试](#任务-3---使用foundry框架编译和测试)
-  - [阶段二任务 💰10U](#阶段二任务-10u)
-    - [任务 1 - 分析token并对区块进行安全检测](#任务-1---分析token并对区块进行安全检测)
-  - [阶段三任务 💰10U](#阶段三任务-10u)
-  - [副本任务 💰1-100U](#副本任务-1-100u)
-    - [任务 1 - Demoday Chainlink 赛道活动](#任务-1---demoday-chainlink-赛道活动)
-  - [Demoday 优秀项目💰200-500U](#demoday-优秀项目200-500u)
-- [关于作业的提交说明](#关于作业的提交说明)
-- [推荐材料](#推荐材料)
-  - [1. 人文基础](#1-人文基础)
-  - [2. 技术基础](#2-技术基础)
-  - [3. PDFs](#3-pdfs)
-  - [4. 官方文档](#4-官方文档)
-  - [5. 学习网站](#5-学习网站)
-  - [6. 相关资源](#6-相关资源)
-  - [7. 大佬博客](#7-大佬博客)
-  - [8. 其他文章](#8-其他文章)
-- [视频资料](#视频资料)
-- [foundry](#foundry)
+<details>
+<summary>Introduction / 项目介绍</summary>
+<ul>
+<li><a href='#introduction'>introduction</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Github Discussion / GitHub讨论方式</summary>
+<ul>
+<li><a href='#github-discussion-使用方法'>Github Discussion 使用方式</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Chapters / 章节</summary>
+<ul>
+<li><a href='#blockchain-introduction'>Blockchain Introduction / 区块链介绍</a></li>
+<li><a href='#solidity-test--security'>Solidity Test & Security / 测试与安全</a></li>
+<li><a href='#frontend-in-web3'>Frontend in Web3 / web3前端</a></li>
+<li><a href='#tools'>Tools / 工具</a></li>
+<li><a href='#one-more-thing'>One More Thing / 其他</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Missions / 通关任务</summary>
+<ul>
+<li><a href='#🏅️-通关任务'>Missions / 通关任务</a></li>
+</ul>
+</details>
+
+<details>
+<summary>Recommended materials  / 推荐材料</summary>
+<ul>
+<li><a href='#1-人文基础-🌟🌟🌟🌟🌟'>Humanities Foundation / 人文基础 🌟🌟🌟🌟🌟</a></li>
+<li><a href='#2-技术基础-🌟🌟🌟🌟🌟'>Technical Foundation / 技术基础 🌟🌟🌟🌟🌟</a></li>
+<li><a href='#3-pdfs'>PDFs</a></li>
+<li><a href='#4-官方文档'>Official Documentation / 官方文档</a></li>
+<li><a href='#5-学习网站'>Learning Websites / 学习网站</a></li>
+<li><a href='#6-相关资源'>Related Resources / 相关资源</a></li>
+<li><a href='#7-大佬博客'>Expert Blogs / 大佬博客</a></li>
+<li><a href='#8-其他文章'>Other Articles / 其他文章</a></li>
+</ul>
+</details>
+
+<details>
+<summary>video material / 视频资料</summary>
+<ul>
+<li><a href="#视频资料">《区块链技术与应用》by 北京大学肖臻老师</a>
+</ul>
+</details>
+
+<details>
+<summary>Foundry  </summary>
+<ul>
+<li><a href="#foundry">Foundry</a>
+</ul>
+</details>
+
 
 ## Introduction
 
@@ -129,7 +145,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ## Blockchain Introduction
 
-> 区块链解决什么问题，Web2 与 Web3 的不同, 给 Web2 开发者的机会，Wallet 、 Layers
+> 区块链是什么？ 区块链解决什么问题？ Web2 与 Web3 有什么不同？ Web2 开发者的机会？ Wallet 是什么？ Layers 是什么？
 
 1. 区块链基本原理介绍
 2. 区块链应用情况介绍
@@ -306,7 +322,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 
 ## 推荐材料
 
-### 1. 人文基础
+### 1. 人文基础 🌟🌟🌟🌟🌟
 
 比特币之前的事情：理解组成比特币的核心技术的发展，理解比特币的前前后后，能更好的理解中本聪创造比特币的核心产物。
 
@@ -317,7 +333,7 @@ OpenBuild 联合 ETHPlanet 打造的 Solidity Bootcamp 将从 Web3 的理论基�
 - [以太坊简史：因暴雪削弱术士而诞生的千亿美元巨兽](https://foresightnews.pro/article/detail/13531)：以太坊近十年的发展很难用一篇文章概括，但是可以大致浏览每一个阶段的重大突破与变化。了解 VB 创造 ETH 的时候主要想解决什么问题
 - [加密思潮编年史，从 25 年前说起](https://foresightnews.pro/article/detail/961)：快速了解加密思潮在不同时期的变化，了解到如何一步步从 BTC 走向 DAPP
 
-### 2. 技术基础
+### 2. 技术基础 🌟🌟🌟🌟🌟
 
 - [比特币白皮书](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
 - [比特币白皮书精读详解](https://mp.weixin.qq.com/s/eYCbAD_tPG9PmuFE1LvCWA)：比特币白皮书精读版是对比特币白皮书更详细的解读，有助于更好的理解白皮书中的内容。比特币的技术原理搞的越清楚越好。
