@@ -15,6 +15,10 @@ Discord: rrr_222
 
 [Task3](https://github.com/Ruiz000/bootcamp-task3)
 
+[Task 6](https://github.com/Ruiz000/ChainlinkLearningPath/blob/main/contracts/DataFeedTask.sol)
 
+[Task 7](https://github.com/Ruiz000/ChainlinkLearningPath/blob/main/contracts/VRFTask.sol)
+
+[Task 8](https://github.com/Ruiz000/ChainlinkLearningPath/blob/main/contracts/AutomationTask.sol)
 
 
