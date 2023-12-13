@@ -7,7 +7,9 @@
 使用集成了wagmi、rainbow和viem的scaffold-eth-2模版，部署了[Task1](../Task1/Task1.md)的FakeUSDT合约，实现token信息的读取和transfer/appove等功能。
 
 **页面展示**
+
 ![img.png](img.png)
+
 ![img_1.png](img_1.png)
 
 **部署步骤**

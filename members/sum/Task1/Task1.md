@@ -7,8 +7,11 @@
 直接使用`openzeppelin`提供的ERC20抽象合约实现。
 
 [合约代码](contracts/FakeUSDT.sol)
+
 [测试代码](test/FakeUSDT.js)
+
 ![img.png](img.png)
+
 [部署脚本](scripts/deploy.js)
 
 合约部署(网络sepolia)
