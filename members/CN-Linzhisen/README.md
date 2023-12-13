@@ -16,4 +16,6 @@ Discord ID: `森`
 
 [Task2](Task2.md#task-2)
 
+[Task3](Task3.md#task-3)
+
 

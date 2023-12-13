@@ -2,8 +2,10 @@
 
 Github: https://github.com/Ruiz000
 
-Wechat Name: D
-Discord: rrr_222
+Wechat Name: D  
+
+Discord: rrr_222  
+
 钱包地址: 0xB5252757A507ab67c040f10B700df2351b2347ff
 
 ## 作业提交
@@ -12,5 +14,7 @@ Discord: rrr_222
 [Task2](https://github.com/Ruiz000/bootcamp-task2)
 
 [Task3](https://github.com/Ruiz000/bootcamp-task3)
+
+
 
 
