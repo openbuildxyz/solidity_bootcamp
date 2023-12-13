@@ -6,7 +6,7 @@
 
 完成 contracts/DataFeedTask.sol 中的任务。
 
-[合约代码](src/DataFeedTask.sol)
+[合约代码](contracts/DataFeedTask.sol)
 测试结果
 ![img.png](img.png)
 

@@ -6,7 +6,7 @@
 
 完成 contracts/VRFTask.sol 中的任务。
 
-[合约代码](src/VRFTask.sol)
+[合约代码](contracts/VRFTask.sol)
 测试结果
 ![img.png](img.png)
 
