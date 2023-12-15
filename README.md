@@ -2,7 +2,7 @@
   <h1>OpenBuild Solidity Bootcamp</h1>
   OpenBuild 联合 ETHPlanet 打造的 Solidity 课程将从 Web3 的理论基础讲起，到学习 Web3 开发最基础的 Solidity 智能合约开发，为你开启一个充满可能性和机遇的世界。
 
- 🔥🔥🔥 <a href="">***黑客松组队持续报名！***</a> 🔥🔥🔥
+ 🔥🔥🔥 <a href="https://openbuild.xyz/learn/challenges/92">***黑客松组队持续报名！***</a> 🔥🔥🔥
 </div>
 
 | 队伍名称      | 项目名称     | 项目简介 |技术架构 | 队员简介 |
