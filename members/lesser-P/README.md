@@ -12,13 +12,15 @@ Discord ID: 1120632081802875024
 
 ## 作业提交
 
+### 第一阶段
+
 [Task1](/members/lesser-P/task1/Task.md#task-1)
 [Task2](/members/lesser-P/task2/Task.md#task-1)
 [Task3](/members/lesser-P/task3/Task.md#task-1)
 
-第二阶段
+### 第二阶段
 
-#### 合约存在的部分安全问题
+#### Task1 合约存在的部分安全问题
 
 没有访问控制：foundationWallet、technologyWallet 和 marketingWallet 这些状态变量是公开的，任何人都可以读取它们。虽然这不一定是一个问题，但如果这些钱包地址应该保密，那么这就是一个安全问题。
 
@@ -29,6 +31,25 @@ Discord ID: 1120632081802875024
 可能的重入攻击：receive 函数是一个空的回退函数，它允许合约接收以太币。如果这个函数被恶意调用，可能会导致重入攻击。
 
 没有限制谁可以调用 addInitLiquidity 函数：虽然这个函数有一个 onlyOwner 修饰符，但在你给出的代码片段中，并没有看到这个修饰符的定义。如果任何人都可以调用这个函数，那么这就是一个安全问题。
+
+#### Task2 钱包 UI
+
+[Wallet](/members/lesser-P/walletUI/wallet.png)
+[Network](/members/lesser-P/walletUI/net.png)
+
+### 第三阶段
+
+#### Task1 DataFeedTask
+
+https://sepolia.etherscan.io/address/0xcFD196Dfd4418eb4Dad91017ADf681b5121e1113#readContract
+
+#### Task2 VRFTask
+
+https://sepolia.etherscan.io/address/0x54e619aa34a4df4df1d9e4f3f747adeffa337387
+
+#### Task3 AutomationTask
+
+https://sepolia.etherscan.io/address/0x6E13b9576EacF61212aEdc93B2F36cebc87c3092#code
 
 ## 学习日志
 

@@ -37,3 +37,11 @@ Task3 foundry tests: test/unit/MyERC20Test.t.sol
 10. 在 buyTokenAndFees 函数中 burnAmount 没有从转账数额中扣除
 11. swapFeeTotal 为积累的待分配手续费收入，所以分配的额度之和不应该超过swapFeeTotal，现在在distributeFee函数中分配额为6倍swapFeeTotal
 12. addLiquidity 私有函数 从未在合约中被使用，应该去掉
+
+## 阶段三任务 - 终极任务
+repo: https://github.com/yanhx/ChainlinkLearningPath
+
+sepolia deployed contract address:
+- DataFeedTask: https://sepolia.etherscan.io/address/0xd90f85df9e2c8dff99f560c339c3d7b9af1e71d4#code
+- VRFTask: https://sepolia.etherscan.io/address/0x8c8fbfd2d06088f73aed1de5d534741127360897#code
+- AutomationTask: https://sepolia.etherscan.io/address/0x5e31e05b1bfae2baba735e32603044960a58a3db#code
