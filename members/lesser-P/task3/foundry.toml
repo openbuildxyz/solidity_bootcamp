@@ -1,0 +1,16 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+remappigns=["@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/","@solmate=lib/solmate/src/"]
+
+solc = "0.8.20"
+
+
+[rpc_endpoints]
+sepolia="${SEPOLIA_RPC_HTTPS}"
+
+[etherscan]
+sepolia = {key = "$ETHERSCAN_API_KEY"}
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
