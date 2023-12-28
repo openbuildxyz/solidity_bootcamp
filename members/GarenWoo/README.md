@@ -1,3 +1,14 @@
+# 个人介绍
+Github: https://github.com/GarenWoo
+
+Wechat Name: Garen_Meta
+
+Wechat Name: Garen Woo v4.0
+
+Discord: garenwoo
+
+钱包地址: 0xf7CE0E442f3e4F849472Cb04FFA9802d4ec16EA9
+
 # 通关任务（作业）
 
 ### 阶段一
