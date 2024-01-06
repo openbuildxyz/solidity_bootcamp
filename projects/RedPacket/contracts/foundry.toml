@@ -1,0 +1,10 @@
+[profile.default]
+src = "src"
+out = "out"
+test = "test"
+libs = ["lib"]
+solc_version = "0.8.17"
+auto_detect_remappings = true
+remappings = ["@chainlink/contracts=lib/chainlink-brownie-contracts/contracts/","@openzeppelin=lib/openzeppelin-contracts/"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options

@@ -1,0 +1,34 @@
+{
+  "name": "my-frontend-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.2.9",
+    "@rainbow-me/rainbowkit": "^1.3.0",
+    "ethers": "^6.9.0",
+    "framer-motion": "^10.16.16",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "reto": "^0.9.3",
+    "wagmi": "^1.4.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "sass": "^1.69.5",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
