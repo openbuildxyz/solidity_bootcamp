@@ -1,0 +1,38 @@
+[
+  {
+    "inputs": [],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "who",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "targetGoods",
+        "type": "address"
+      }
+    ],
+    "name": "addWant",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "to",
+        "type": "address"
+      }
+    ],
+    "name": "donateFund",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  }
+]
