@@ -1,0 +1,14 @@
+{
+  "name": "qqfarm-contract",
+  "version": "1.0.0",
+  "description": "qq farm contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  }
+}
