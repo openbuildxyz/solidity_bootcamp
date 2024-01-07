@@ -1,0 +1,32 @@
+.custom-modal {
+  width: 500px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+}
+
+.custom-modal-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  padding: 20px;
+  text-align: center;
+}
+
+.success-title {
+  font-size: 32px;
+  color: #1890ff;
+  margin-bottom: 20px;
+}
+
+.count-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  margin-top: 20px;
+}
