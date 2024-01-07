@@ -1,0 +1,40 @@
+@charset "utf-8";
+.Frame > .Wicket > .Line:before{
+	content:'BASE LINE';
+}
+#Chat > .Wicket > li > .Panel > .Recommend:before{
+	content:'Related Issues';
+}
+#Project > .Wicket > li > .Detail > .Right:before{
+	content:'24H Transaction Volume';
+}
+#Program > .Wicket > #Bulletin:before{
+	content:'No News Yet';
+}
+#Program > .Wicket > #Bulletin > ul > .Line:before{
+	content:'BASE LINE';
+}
+#Epigraph > .Wicket > .Introduce:before{
+	content:'Chain Zone';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > .Name:before{
+	content:'Name / Turnover';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > span:nth-child(3):before{
+	content:'Price';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > span:nth-child(4):before{
+	content:'Chg';
+}
+#Epigraph > .Wicket > .Tutorial:before{
+	content:'Inscription Information';
+}
+#Inscription > .Wicket > .Address:before{
+	content:'Holder';
+}
+#Search > .Panel > .Project:before{
+	content:'Project';
+}
+#Search > .Panel > .Chat:before{
+	content:'Chat Record';
+}

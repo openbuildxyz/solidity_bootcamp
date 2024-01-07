@@ -1,0 +1,17 @@
+{
+	"version.aivvv.cc" : {
+		"Title" : "猫头鹰" ,
+		"Program" : "Owl" ,
+		"Version" : true
+	} ,
+	"wap.aivvv.cc" : {
+		"Title" : "猫头鹰" ,
+		"Program" : "Mobile" ,
+		"Version" : true
+	} ,
+	"owl.cc" : {
+		"Title" : "猫头鹰" ,
+		"Program" : "Mobile" ,
+		"Version" : true
+	}
+}
