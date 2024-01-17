@@ -1,0 +1,6 @@
+[submodule "projects/LearnTogether/learn-togather"]
+	path = projects/LearnTogether/learn-togather
+	url = git@github.com:yucheng-Li/learn-togather.git
+[submodule "projects/LearnTogether/learn-togather-contracts"]
+	path = projects/LearnTogether/learn-togather-contracts
+	url = git@github.com:yucheng-Li/learn-togather-contracts.git
