@@ -1,0 +1,40 @@
+@charset "utf-8";
+.Frame > .Wicket > .Line:before{
+	content:'我是有底线的';
+}
+#Chat > .Wicket > li > .Panel > .Recommend:before{
+	content:'您可能还有更多问题';
+}
+#Project > .Wicket > li > .Detail > .Right:before{
+	content:'24H交易量';
+}
+#Program > .Wicket > #Bulletin:before{
+	content:'暂无内容';
+}
+#Program > .Wicket > #Bulletin > ul > .Line:before{
+	content:'我是有底线的';
+}
+#Epigraph > .Wicket > .Introduce:before{
+	content:'铭文链';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > .Name:before{
+	content:'名称 / 交易额';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > span:nth-child(3):before{
+	content:'价格';
+}
+#Epigraph > .Wicket > .Coin > li:nth-child(1) > span:nth-child(4):before{
+	content:'涨跌幅';
+}
+#Epigraph > .Wicket > .Tutorial:before{
+	content:'教程资讯';
+}
+#Inscription > .Wicket > .Address:before{
+	content:'持有者';
+}
+#Search > .Panel > .Project:before{
+	content:'项目';
+}
+#Search > .Panel > .Chat:before{
+	content:'聊天记录';
+}

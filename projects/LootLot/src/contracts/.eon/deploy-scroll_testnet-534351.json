@@ -1,0 +1,35 @@
+{
+  "CarERC721": {
+    "contractName": "CarERC721",
+    "address": "0x51e49799490A4469fb73edFC09822b3b566cE445"
+  },
+  "manifestVersion": "0.0.1",
+  "ParkingERC721": {
+    "contractName": "ParkingERC721",
+    "address": "0x27F4108167D3B38ca45f533F6197635927A29A63"
+  },
+  "LLTToken": {
+    "contractName": "LLTToken",
+    "address": "0x5AB4AADf5903163F2C095b5950942d30b584B1A0"
+  },
+  "ERC6551Registry": {
+    "contractName": "ERC6551Registry",
+    "address": "0x6550755AEE41CC87E72A849Fdf9022aa74DEC1F4"
+  },
+  "StandardERC6551Account": {
+    "contractName": "StandardERC6551Account",
+    "address": "0xf412719c2dDe7e83B2Ff3bDdBE92C48525C4DE18"
+  },
+  "CarStore": {
+    "contractName": "CarStore",
+    "address": "0x861eC40cF915A2036617272a81ed16b339952E51"
+  },
+  "ParkingStore": {
+    "contractName": "ParkingStore",
+    "address": "0x58aBD61715C8825a76bf89A61DCAc4884EeD8599"
+  },
+  "LotLoot": {
+    "contractName": "LotLoot",
+    "address": "0xC66bf87E05BF03468DE4ba671b97EE22b884458B"
+  }
+}

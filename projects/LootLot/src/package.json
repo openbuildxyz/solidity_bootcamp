@@ -1,0 +1,19 @@
+{
+  "name": "parkingspacebattle",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <h1>LotLoot</h1> <h2>🅿️🚗🚕🚙</h2> <h3>A Fully On-Chain Game integrated with SocialFi</h3> <img src=\"./assets/logo_lotloot.jpg\" width=\"900\"> </div> <br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "solc": "^0.8.21"
+  },
+  "devDependencies": {
+    "hardhat": "^2.18.1"
+  }
+}
